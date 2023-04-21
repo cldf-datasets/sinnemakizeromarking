@@ -1,0 +1,135 @@
+# --- Language ---
+language:
+    Description: >
+        Language name as it appears in the World Atlas of Language Structures (WALS; Dryer & Haspelmath 2013).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+
+# --- Word order - binned to five categories ---
+WordOrder.binned5:
+    Description: >
+        Dominant word order of subject, object and verb in a transitive clause, following definitions in Sinnemäki 2010.
+    SetUp: single entry per language
+    VariableType: data
+    DataType: categorical
+    N_Entries: 889
+    N_Languages: 895
+    N_Missing: 6
+    N_Levels: 5
+    Levels: |
+        'V1': > verb-initial order
+        'V3': > verb-final order
+        'SVO': > subject-verb-object order
+        'OVS': > object-verb-subject order
+        'nd': > no dominant order
+
+# --- Word order of subject and object ---
+WordOrder.SO:
+    Description: >
+        Dominant word order of subject and object in a transitive clause, following definitions in Sinnemäki 2010.
+    SetUp: single entry per language
+    VariableType: data
+    DataType: categorical
+    N_Entries: 889
+    N_Languages: 895
+    N_Missing: 6
+    N_Levels: 2
+    Levels: |
+        'yes': > dominant subject-object order
+        'no': > either dominant object-subject order or no dominant order
+
+# --- Word order - binned to seven categories ---
+WordOrder.binned7:
+    Description: >
+        Dominant word order of subject, object and verb in a transitive clause, following definitions in Dryer 2013.
+    SetUp: single entry per language
+    VariableType: data
+    DataType: categorical
+    N_Entries: 889
+    N_Languages: 895
+    N_Missing: 6
+    N_Levels: 7
+    Levels: |
+        'SVO': > dominant subject-verb-object order
+        'SOV': > dominant subject-object-verb order
+        'VSO': > dominant verb-subject-object order
+        'VOS': > dominant verb-object-subject order
+        'OSV': > dominant object-subject-verb order
+        'OVS': > dominant object-verb-subject order
+        'no dom.': > no dominant word order
+
+# --- Word order - subject-first ---
+WordOrder.S_first:
+    Description: >
+        Dominant word order of subject compared to object and verb in a transitive clause, 
+        following definitions in Sinnemäki 2010.
+    SetUp: single entry per language
+    VariableType: data
+    DataType: categorical
+    N_Entries: 889
+    N_Languages: 895
+    N_Missing: 6
+    N_Levels: 2
+    Levels: |
+        'yes': > dominant word order is subject-first (including SVO and SOV orders)
+        'no': > dominant wordo order order is not subject-first (including verb-initial and object-initial orders)
+
+# --- Morphological marking of core arguments ---
+MorphMarking:
+    Description: >
+        Is there any overt morphological marking of lexical arguments (subject or object), including dependent marking (~case marking), head marking (~agreement), or some other consistent type of morphological marking? Definitions are as in Sinnemäki 2010.
+    SetUp: single entry per language
+    VariableType: data
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 2
+    Levels: |
+        'yes': > there is overt morphological marking of lexical arguments (subject and/or object)
+        'no': > there is no overt marking of lexical arguments (subject and object)
+
+# --- Head marking of core arguments ---
+HeadMarking:
+    Description: >
+        Is there any head marking of lexical arguments, mostly covering person, number, and gender agreement of a lexical subject and/or object on the predicate. Definitions are as in Sinnemäki 2010.
+    SetUp: single entry per language
+    VariableType: data
+    DataType: categorical
+    N_Entries: 755
+    N_Languages: 895
+    N_Missing: 140
+    N_Levels: 2
+    Levels: |
+        'yes': > there is head marking of lexical arguments (subject and/or object)
+        'no': > there is no head marking of lexical arguments (subject and object)
+    
+# --- Dependent Marking of core arguments ---
+DependentMarking:
+    Description: >
+        Is there any dependent marking of lexical arguments, mostly covering case marking of the lexical subject and/or object. Definitions are as in Sinnemäki 2010.
+    SetUp: single entry per language    
+    VariableType: data
+    DataType: categorical
+    N_Entries: 755
+    N_Languages: 895
+    N_Missing: 140
+    N_Levels: 2
+    Levels: |
+        'yes': > there is dependent marking of lexical arguments (subject and/or object)
+        'no': > there is no dependent marking of lexical arguments (subject and object)
+    
+# --- Sources ---
+Sources: 
+    Description: >
+        Sources used for the typological analyses: author's name, year of publication, and page number where given. Full references are provided in the file references.bib
+    SetUp: single entry per language or multiple entries per language
+    VariableType: quality
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0

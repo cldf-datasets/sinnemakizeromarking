@@ -1,0 +1,896 @@
+glottocode;iso_code;wals_code;language;genus;family;longitude;latitude;area;continent;macroarea;macrocontinent.3;macrocontinent.4;circumpacific
+xooo1239;nmn;xoo;!Xóõ;Southern Khoisan;Khoisan;21,5;-24;S_Africa;Africa;Africa;ow;afr;no
+hoaa1235;huc;huc;=|Hoan;=|Hoan;Khoisan;25;-25,5;S_Africa;Africa;Africa;ow;afr;no
+abau1245;aau;aba;Abau;Upper Sepik;Sepik;141,25;-4;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+abip1241;axb;abi;Abipón;Guaicuruan;Guaicuruan;-61;-29;SE_South_America;S_America;South America;nw;nw;yes
+abkh1244;abk;abk;Abkhaz;Northwest Caucasian;Northwest Caucasian;41;43,08333;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+abun1252;kgr;abu;Abun;North-Central Bird's Head;West Papuan;132,5;-0,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+achi1257;ace;ace;Acehnese;Malayo-Sumbawan;Austronesian;95,5;5,5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+acha1250;aca;acg;Achagua;Northern Arawakan;Arawakan;-72,25;4,41667;NE_South_America;S_America;South America;nw;nw;yes
+achu1248;acu;acu;Achuar;Jivaroan;Jivaroan;-76;-2,66667;NE_South_America;S_America;South America;nw;nw;yes
+achu1247;acv;acm;Achumawi;Palaihnihan;Hokan;-121;41,5;Basin_and_Plains;W_N_America;North America;nw;nw;yes
+west2632;kjq;aco;Acoma;Keresan;Keresan;-107,58333;34,91667;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+adan1251;adn;adg;Adang;Greater Alor;Timor-Alor-Pantar;124;-8,2;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+adyg1241;ady;ady;Adyghe (Abzakh);Northwest Caucasian;Northwest Caucasian;40,58333;45,23333;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+aeky1238;awi;awi;Aekyom/Awin;Awin-Pare;Awin-Pare;141,41667;-5,75;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+afri1274;afr;afr;Afrikaans;Germanic;Indo-European;22;-31;S_Africa;Africa;Africa;ow;afr;no
+agar1252;agd;aga;Agarabi;Eastern Highlands;Trans-New Guinea;146;-6,16667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ainu1240;ain;ain;Ainu;Ainu;Ainu;143;43;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+ajas1235;aja;aja;Aja;Kresh;Nilo-Saharan;25,66667;7,33333;African_Savannah;Africa;Africa;ow;afr;no
+akan1250;aka;akn;Akan (Asante);Kwa;Niger-Congo;-1,25;6,5;African_Savannah;Africa;Africa;ow;afr;no
+fant1241;fat;;Akan (Fante);Kwa;Niger-Congo;;;African_Savannah;Africa;Africa;ow;afr;no
+alam1246;amp;ala;Alamblak;Sepik Hill;Sepik;143,33333;-4,66667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+alaw1244;alh;alw;Alawa;Maran;Australian;134,25;-15,16667;N_Australia;Australia;Australia;pac;pac;yes
+gheg1238;aln;alb;Albanian;Albanian;Indo-European;20;41;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+aleu1260;ale;ale;Aleut;Aleut;Eskimo-Aleut;-166;54;N_Coast_Asia;NC_Asia;North America;nw;nw;yes
+alle1238;;alc;Allentiac;Huarpe;Huarpe;-68;-31;Andean;S_America;South America;nw;nw;yes
+alse1251;aes;als;Alsea;Alsea;Oregon Coast;-123,91667;44,66667;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+alun1238;alp;aln;Alune;Central Malayo-Polynesian;Austronesian;128,33333;-3;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+aman1265;amn;amn;Amanab;Border;Border;141,25;-3,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ambu1247;abt;amb;Ambulas;Middle Sepik;Sepik;143;-3,83333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+amel1241;aey;ame;Amele;Madang;Trans-New Guinea;145,58333;-5,25;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+amha1245;amh;amh;Amharic;Semitic;Afro-Asiatic;38;10;Greater_Abyssinia;Africa;Africa;ow;afr;no
+amis1246;ami;ami;Amis;East Formosan;Austronesian;121,33;23,33;Southeast_Asia;S_&_SE_Asia;Papunesia;pac;pac;yes
+guer1243;amu;amz;Amuzgo;Amuzgoan;Oto-Manguean;-98;16,83333;Mesoamerica;C_America;North America;nw;nw;yes
+ando1256;ano;adk;Andoke;Andoke;Andoke;-72;-0,66667;NE_South_America;S_America;South America;nw;nw;yes
+anem1249;anz;ane;Anêm;Anêm;Anêm;149,08333;-5,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ango1254;agg;ang;Anggor;Senagi;Senagi;141,16667;-3,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+anin1240;aoi;ann;Anindilyakwa;Anindilyakwa;Australian;136,5;-14;N_Australia;Australia;Australia;pac;pac;yes
+ansu1237;and;;Ansus;South Halmahera - West New Guinea;Austronesian;135,87;-1,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+apur1254;apu;apu;Apurinã;Purus;Arawakan;-67;-9;NE_South_America;S_America;South America;nw;nw;yes
+arab1268;arl;arb;Arabela;Zaparoan;Zaparoan;-75,16667;-2;NE_South_America;S_America;South America;nw;nw;yes
+egyp1253;arz;aeg;Arabic (Egyptian);Semitic;Afro-Asiatic;31;30;N_Africa;Africa;Africa;ow;afr;no
+arao1248;aro;ana;Araona;Tacanan;Tacanan;-67,75;-12,33333;NE_South_America;S_America;South America;nw;nw;yes
+buki1249;ape;arp;Arapesh (Mountain);Kombio-Arapesh;Torricelli;143,16667;-3,46667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+araw1276;arw;ara;Arawak;Northern Arawakan;Arawakan;-55,16667;5,5;NE_South_America;S_America;South America;nw;nw;yes
+nucl1235;hye;arw;Armenian (Western);Armenian;Indo-European;43,5;38,5;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+tamn1235;tml;asm;Asmat;Asmat-Kamoro;Trans-New Guinea;138,5;-5,5;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+assa1263;asm;ass;Assamese;Indic;Indo-European;93;26;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+toca1235;asu;asu;Asuriní;Tupi-Guaraní;Tupian;-49,5;-3,5;NE_South_America;S_America;South America;nw;nw;yes
+kunz1244;kuz;atm;Atacameño;Kunza;Kunza;-69;-23;Andean;S_America;South America;nw;nw;yes
+atak1252;aqp;atk;Atakapa;Atakapa;Atakapa;-93,5;30;E_North_America;E_N_America;North America;nw;nw;yes
+atay1247;tay;ata;Atayal;Atayalic;Austronesian;121,33333;24,5;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+atoh1238;aqm;;Atohwaim;Kayagar;Kayagar;138,67;-6,27;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+atsu1245;atw;ats;Atsugewi;Palaihnihan;Hokan;-121;40,75;Basin_and_Plains;W_N_America;North America;nw;nw;yes
+auuu1241;avt;au;Au;Wapei-Palei;Torricelli;142,08333;-3,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+avar1256;ava;ava;Avar;Avar-Andic-Tsezic;Nakh-Daghestanian;46,5;42,5;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+avok1242;avu;avo;Avokaya;Moru-Ma'di;Nilo-Saharan;30;4,66667;African_Savannah;Africa;Africa;ow;afr;no
+awac1239;kwi;awp;Awa Pit;Barbacoan;Barbacoan;-78,25;1,5;Andean;S_America;South America;nw;nw;yes
+awng1244;awn;awn;Awngi;Central Cushitic;Afro-Asiatic;36,66667;10,83333;Greater_Abyssinia;Africa;Africa;ow;afr;no
+awtu1239;kmn;awt;Awtuw;Ram;Sepik;142;-3,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ayiw1239;nfl;ayw;Ayiwo;Oceanic;Austronesian;166,25;-10,33333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+nucl1667;ayc;aym;Aymara;Aymaran;Aymaran;-69;-17;Andean;S_America;South America;nw;nw;yes
+ayor1240;ayo;ayr;Ayoreo;Zamucoan;Zamucoan;-59,25;-20,25;SE_South_America;S_America;South America;nw;nw;yes
+sout2697;azb;aze;Azerbaijani;Turkic;Altaic;48,5;40,5;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+veng1238;bav;bab;Babungo;Bantoid;Niger-Congo;10,41667;6,11667;African_Savannah;Africa;Africa;ow;afr;no
+bagi1246;bmi;bag;Bagirmi;Bongo-Bagirmi;Nilo-Saharan;16;11,66667;African_Savannah;Africa;Africa;ow;afr;no
+furu1242;fuu;bgr;Bagiro;Bongo-Bagirmi;Nilo-Saharan;20,58333;4,33333;S_Africa;Africa;Africa;ow;afr;no
+bagv1239;kva;bgv;Bagvalal;Avar-Andic-Tsezic;Nakh-Daghestanian;46,16666667;42,58333333;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+cent2004;bca;bai;Bai;Bai;Sino-Tibetan;100;26;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+indo1317;bdl;baj;Bajau (Sama);Sama-Bajaw;Austronesian;123;-4,33333;Oceania;NG_&_Oceania;Papunesia;ow;eur;no
+bali1280;bbn;bvi;Bali-Vitu;Oceanic;Austronesian;149,11667;-4,9;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+bamb1269;bam;bam;Bambara;Western Mande;Niger-Congo;-7,5;12,5;African_Savannah;Africa;Africa;ow;afr;no
+bani1255;bwi;bnw;Baniwa;Northern Arawakan;Arawakan;-66,83333;2,66667;NE_South_America;S_America;South America;nw;nw;yes
+bara1377;bbb;baa;Barai;Koiarian;Trans-New Guinea;148,08333;-9,33333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+bara1380;bsn;brs;Barasano;Tucanoan;Tucanoan;-70,66667;-0,16667;NE_South_America;S_America;South America;nw;nw;yes
+bare1276;bae;bae;Baré;Northern Arawakan;Arawakan;-67;1;NE_South_America;S_America;South America;nw;nw;yes
+bari1284;bfa;bar;Bari;Nilotic;Nilo-Saharan;31,66667;5;African_Savannah;Africa;Africa;ow;afr;no
+bari1297;mot;;Bari (Chibchan);Chibchan Proper;Chibchan;-72,94;9,08;NE_South_America;S_America;South America;nw;nw;yes
+bash1264;bak;bsk;Bashkir;Turkic;Altaic;58;53;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+bask1236;bst;;Basketo;North Omotic;Afro-Asiatic;36,58;6,46;Greater_Abyssinia;Africa;Africa;ow;afr;no
+basq1248;eus;bsq;Basque;Basque;Basque;-3;43;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+bauz1241;bvz;bzi;Bauzi;East Geelvink Bay;East Geelvink Bay;137,5;-2,5;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+bawm1236;bgr;baw;Bawm;Kuki-Chin;Sino-Tibetan;92,25;22,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+idaa1241;dbj;beg;Begak-Ida'an;North Borneo;Austronesian;118,83333;5,25;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+beja1238;bej;bej;Beja;Beja;Afro-Asiatic;36;18;N_Africa;Africa;Africa;ow;afr;no
+belh1239;byw;bel;Belhare;Mahakiranti;Sino-Tibetan;87,3;26,96667;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+bell1243;blc;bco;Bella Coola;Bella Coola;Salishan;-126,66667;52,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+bela1254;bel;blr;Belorussian;Slavic;Indo-European;28;54;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+cent2194;tzm;bma;Berber (Middle Atlas);Berber;Afro-Asiatic;-5;33;N_Africa;Africa;Africa;ow;afr;no
+tari1263;rif;brf;Berber (Rif);Berber;Afro-Asiatic;-4;34,5;N_Africa;Africa;Africa;ow;afr;no
+beri1254;bkl;brk;Berik;Tor;Tor-Orya;138,83333;-2,25;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+bert1248;wti;ber;Berta;Berta;Nilo-Saharan;34,66667;10,33333;Greater_Abyssinia;Africa;Africa;ow;afr;no
+beto1236;;bti;Betoi;Betoi;Betoi;-71,25;7,16667;NE_South_America;S_America;South America;nw;nw;yes
+biak1248;bhw;bik;Biak;South Halmahera - West New Guinea;Austronesian;136;-1;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+bili1260;byn;bln;Bilin;Central Cushitic;Afro-Asiatic;38,5;15,75;Greater_Abyssinia;Africa;Africa;ow;afr;no
+bilu1245;blb;bil;Bilua;Bilua;Solomons East Papuan;156,66667;-7,75;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+gunw1252;gup;bbw;Bininj Gun-Wok;Gunwinygic;Australian;133,75;-12,5;N_Australia;Australia;Australia;pac;pac;yes
+bero1242;bom;bir;Birom;Platoid;Niger-Congo;8,83333;9,66667;African_Savannah;Africa;Africa;ow;afr;no
+damu1236;adi;boq;Bokar;Tani;Sino-Tibetan;94,66667;28,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+boko1266;bqc;bok;Boko;Eastern Mande;Niger-Congo;3,5;10,5;African_Savannah;Africa;Africa;ow;afr;no
+bora1263;boa;bor;Bora;Boran;Huitotoan;-72,33333;-2,16667;NE_South_America;S_America;South America;nw;nw;yes
+boro1282;bor;brr;Bororo;Bororo;Macro-Ge;-57;-16;NE_South_America;S_America;South America;nw;nw;yes
+boru1252;brn;brc;Boruca;Talamanca;Chibchan;-83,25;8,83333;Mesoamerica;C_America;North America;nw;nw;yes
+brah1256;brh;brh;Brahui;Northern Dravidian;Dravidian;67;28,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+bret1244;bre;bre;Breton;Celtic;Indo-European;-3;48;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+brib1243;bzd;bri;Bribri;Talamanca;Chibchan;-83;9,41667;Mesoamerica;C_America;North America;nw;nw;yes
+budu1265;bdm;bud;Buduma;Biu-Mandara;Afro-Asiatic;14,5;13,5;African_Savannah;Africa;Africa;ow;afr;no
+buga1247;bbh;;Bugan;Bugan;Austro-Asiatic;104,96;23,61;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+bura1267;bvr;bua;Burarra;Burarran;Australian;134,58333;-12,25;N_Australia;Australia;Australia;pac;pac;yes
+mong1330;bxm;but;Buriat;Mongolic;Altaic;108;52;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+nucl1310;mya;brm;Burmese;Burmese-Lolo;Sino-Tibetan;96;21;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+buru1296;bsk;bur;Burushaski;Burushaski;Burushaski;74,5;36,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+busa1253;bqp;bus;Busa;Eastern Mande;Niger-Congo;4;9,66667;African_Savannah;Africa;Africa;ow;afr;no
+cacu1241;cbv;cac;Cacua;Cacua-Nukak;Cacua-Nukak;-70;1,08333;NE_South_America;S_America;South America;nw;nw;yes
+cahu1264;chl;cah;Cahuilla;Takic;Uto-Aztecan;-116,25;33,5;California;W_N_America;North America;nw;nw;yes
+asha1243;cni;cax;Campa (Axininca);Pre-Andine Arawakan;Arawakan;-74;-12;Andean;S_America;South America;nw;nw;yes
+cams1241;kbh;cam;Camsá;Camsá;Camsá;-77;1,16667;Andean;S_America;South America;nw;nw;yes
+kana1291;knm;cnm;Canamarí;Katukinan;Katukinan;-68,5;-6,5;NE_South_America;S_America;South America;nw;nw;yes
+cand1248;cbu;can;Candoshi;Candoshi;Candoshi;-77;-4,16667;Andean;S_America;South America;nw;nw;yes
+cane1242;ram;ckr;Canela-Krahô;Ge-Kaingang;Macro-Ge;-46;-6;NE_South_America;S_America;South America;nw;nw;yes
+yuec1235;yue;cnt;Cantonese;Chinese;Sino-Tibetan;113;23;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+gali1262;car;car;Carib;Cariban;Cariban;-56;5,5;NE_South_America;S_America;South America;nw;nw;yes
+maqu1238;mch;cde;Carib (De'kwana);Cariban;Cariban;-65;5,5;NE_South_America;S_America;South America;nw;nw;yes
+cash1254;cbs;csh;Cashinahua;Panoan;Panoan;-71,83333;-10,5;NE_South_America;S_America;South America;nw;nw;yes
+cavi1250;cav;cav;Cavineña;Tacanan;Tacanan;-66,5;-13,33333;NE_South_America;S_America;South America;nw;nw;yes
+cayu1262;cyb;cyv;Cayuvava;Cayuvava;Cayuvava;-65,5;-13,5;NE_South_America;S_America;South America;nw;nw;yes
+east2563;cjm;cme;Cham (Eastern);Malayo-Sumbawan;Austronesian;108,5;11,33333;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+cham1312;cha;cha;Chamorro;Chamorro;Austronesian;144,75;13,45;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+west2644;ctp;cya;Chatino (Yaitepec);Zapotecan;Oto-Manguean;-97,25;16,25;Mesoamerica;C_America;North America;nw;nw;yes
+chay1248;cbt;chy;Chayahuita;Cahuapanan;Cahuapanan;-77;-5,5;Andean;S_America;South America;nw;nw;yes
+chec1245;che;chc;Chechen;Nakh;Nakh-Daghestanian;45,83333;43,25;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+uppe1439;cjh;chl;Chehalis (Upper);Tsamosan;Salishan;-123;46,58333;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+chep1245;cdm;cpn;Chepang;Mahakiranti;Sino-Tibetan;84,75;27,67;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+cher1273;chr;che;Cherokee;Southern Iroquoian;Iroquoian;-83,5;35,5;E_North_America;E_N_America;North America;nw;nw;yes
+chic1272;pei;cjo;Chichimeca-Jonaz;Chichimec;Oto-Manguean;-100,5;21,66667;Mesoamerica;C_America;North America;nw;nw;yes
+chim1301;cid;chi;Chimariko;Chimariko;Hokan;-123;41;California;W_N_America;North America;nw;nw;yes
+chim1309;cbg;cma;Chimila;Chimila;Chibchan;-74;10;NE_South_America;S_America;South America;nw;nw;yes
+coma1246;cco;ccm;Chinantec (Comaltepec);Chinantecan;Oto-Manguean;-96,41667;17,58333;Mesoamerica;C_America;North America;nw;nw;yes
+lala1270;cnl;;Chinantec (Lalana);Chinantecan;Oto-Manguean;-96,01;17,58;Mesoamerica;C_America;North America;nw;nw;yes
+leal1235;cle;cle;Chinantec (Lealao);Chinantecan;Oto-Manguean;-95,91667;17,33333;Mesoamerica;C_America;North America;nw;nw;yes
+quio1240;chq;chq;Chinantec (Quiotepec);Chinantecan;Oto-Manguean;-96,66667;17,58333;Mesoamerica;C_America;North America;nw;nw;yes
+soch1239;cso;csc;Chinantec (Sochiapan);Chinantecan;Oto-Manguean;-96,66667;17,75;Mesoamerica;C_America;North America;nw;nw;yes
+tepe1279;cnt;cte;Chinantec (Tepetotutla);Chinantecan;Oto-Manguean;-96,5;17,83333;Mesoamerica;C_America;North America;nw;nw;yes
+chin1286;chh;ckl;Chinook (Lower);Chinookan;Penutian;-123,5;46,25;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+wasc1239;wac;cku;Chinook (Upper);Chinookan;Penutian;-122,5;45,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+chiq1248;cax;cqt;Chiquitano;Chiquito;Chiquito;-60;-17,5;NE_South_America;S_America;South America;nw;nw;yes
+chit1248;ctm;ctm;Chitimacha;Chitimacha;Chitimacha;-91;29,66667;E_North_America;E_N_America;North America;nw;nw;yes
+choc1276;cho;cct;Choctaw;Muskogean;Muskogean;-88,5;32,25;E_North_America;E_N_America;North America;nw;nw;yes
+chol1284;cht;cln;Cholón;Cholon;Cholon;-77,5;-8;Andean;S_America;South America;nw;nw;yes
+high1242;chd;cho;Chontal (Highland);Tequistlatecan;Tequistlatecan;-95,75;16,25;Mesoamerica;C_America;North America;nw;nw;yes
+lowl1260;clo;chx;Chontal (Huamelultec Oaxaca);Tequistlatecan;Tequistlatecan;-95,75;16;Mesoamerica;C_America;North America;nw;nw;yes
+taba1266;chf;cmy;Chontal Maya;Mayan;Mayan;-92,58333;18,16667;Mesoamerica;C_America;North America;nw;nw;yes
+chra1242;crw;chr;Chrau;Bahnaric;Austro-Asiatic;107,5;10,75;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+chuk1273;ckt;chk;Chukchi;Northern Chukotko-Kamchatkan;Chukotko-Kamchatkan;-173;67;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+barb1263;boi;cba;Chumash (Barbareño);Chumash;Chumash;-120,25;34,5;California;W_N_America;North America;nw;nw;yes
+cint1239;cin;;Cinta Larga;Monde;Tupian;-60,83;-10,59;NE_South_America;S_America;South America;nw;nw;yes
+coah1252;xcw;coa;Coahuilteco;Coahuiltecan;Coahuiltecan;-100;28;Basin_and_Plains;C_America;North America;nw;nw;yes
+coca1259;cod;coc;Cocama;Tupi-Guaraní;Tupian;-74,5;-5;NE_South_America;S_America;South America;nw;nw;yes
+cofa1242;con;cof;Cofán;Cofán;Cofán;-77,16667;0,16667;Andean;S_America;South America;nw;nw;yes
+coma1245;com;cmn;Comanche;Numic;Uto-Aztecan;-101,5;33,5;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+coos1249;csz;coo;Coos (Hanis);Coosan;Oregon Coast;-124,16667;43,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+copt1239;cop;cop;Coptic;Egyptian-Coptic;Afro-Asiatic;32;26;N_Africa;Africa;Africa;ow;afr;no
+elna1235;crn;cor;Cora;Corachol;Uto-Aztecan;-104,83333;22,16667;Mesoamerica;C_America;North America;nw;nw;yes
+corn1251;cor;crn;Cornish;Celtic;Indo-European;-5;50,33333;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+plai1258;crk;cre;Cree (Plains);Algonquian;Algic;-110;54;E_North_America;E_N_America;North America;nw;nw;yes
+cuib1242;cui;cui;Cuiba;Guahiban;Guahiban;-70;6,5;NE_South_America;S_America;South America;nw;nw;yes
+daga1275;dgz;dag;Daga;Dagan;Dagan;149,33333;-10;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+sout2789;dga;dga;Dagaare;Gur;Niger-Congo;-2,66667;10,5;African_Savannah;Africa;Africa;ow;afr;no
+dagb1246;dag;dgb;Dagbani;Gur;Niger-Congo;-0,5;9,58333;African_Savannah;Africa;Africa;ow;afr;no
+daur1238;dta;dgr;Dagur;Mongolic;Altaic;124;48;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+dama1272;uhn;;Damal;Damal;Damal;137,5;-4,17;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+mala1522;mbp;dam;Damana;Aruak;Chibchan;-73,5;11;NE_South_America;S_America;South America;nw;nw;yes
+dann1241;daf;dan;Dan;Eastern Mande;Niger-Congo;-8;7,5;African_Savannah;Africa;Africa;ow;afr;no
+lowe1415;dni;dni;Dani (Lower Grand Valley);Dani;Trans-New Guinea;138,83333;-4,33333;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+darg1241;dar;drg;Dargwa;Lak-Dargwa;Nakh-Daghestanian;47,41667;42,25;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+dato1239;tcc;dat;Datooga;Nilotic;Nilo-Saharan;35,33333333;-4,333333333;S_Africa;Africa;Africa;ow;afr;no
+daww1239;kwa;daw;Dâw;Nadahup;Nadahup;-67,08333;-0,25;NE_South_America;S_America;South America;nw;nw;yes
+defa1248;afn;def;Defaka;Ijoid;Niger-Congo;7,5;4,58333;African_Savannah;Africa;Africa;ow;afr;no
+dege1246;deg;deg;Degema;Edoid;Niger-Congo;6,75;4,75;African_Savannah;Africa;Africa;ow;afr;no
+deni1241;dny;den;Dení;Arauan;Arauan;-67;-6;NE_South_America;S_America;South America;nw;nw;yes
+didi1258;did;did;Didinga;Surmic;Nilo-Saharan;33,5;4,5;African_Savannah;Africa;Africa;ow;afr;no
+kumi1248;dih;die;Diegueño (Mesa Grande);Yuman;Hokan;-116,16667;32,66667;California;C_America;North America;nw;nw;yes
+dime1235;dim;dim;Dime;South Omotic;Afro-Asiatic;36,25;6,16667;Greater_Abyssinia;Africa;Africa;ow;afr;no
+nort2815;dip;din;Dinka;Nilotic;Nilo-Saharan;28;8,5;African_Savannah;Africa;Africa;ow;afr;no
+jola1263;dyo;dio;Diola-Fogny;Northern Atlantic;Niger-Congo;-16,25;13;African_Savannah;Africa;Africa;ow;afr;no
+dier1241;dif;diy;Diyari;Pama-Nyungan;Australian;139;-28;S_Australia;Australia;Australia;pac;pac;yes
+dizi1235;mdx;diz;Dizi;Dizoid;Afro-Asiatic;36,5;6,16667;Greater_Abyssinia;Africa;Africa;ow;afr;no
+djin1251;jig;dji;Djingili;West Barkly;Australian;134;-17,75;N_Australia;Australia;Australia;pac;pac;yes
+dera1245;kbv;der;Dla (Proper)/Dera;Senagi;Senagi;141;-3,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+toro1253;dtt;;Dogon (Toro Tegu);Dogon;Niger-Congo;-2,22;15,06;African_Savannah;Africa;Africa;ow;afr;no
+donn1239;dds;dds;Donno So;Dogon;Niger-Congo;-3,58333;14,33333;African_Savannah;Africa;Africa;ow;afr;no
+dehu1237;dhv;dre;Drehu;Oceanic;Austronesian;167,25;-21;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+drun1238;duu;dul;Dulong;Nungish;Sino-Tibetan;98,33333;28;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+vani1248;vam;dum;Dumo;Western Skou;Skou;141,3;-2,68333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+duna1248;duc;dun;Duna;Duna;Trans-New Guinea;142,5;-5,5;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+dutc1256;nld;dut;Dutch;Germanic;Indo-European;6;52,5;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+dyir1250;dbl;dyi;Dyirbal;Pama-Nyungan;Australian;145,58333;-17,83333;N_Australia;Australia;Australia;pac;pac;yes
+edol1239;etr;edo;Edolo;Bosavi;Bosavi;142,66667;-6,16667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+efik1245;efi;efi;Efik;Cross River;Niger-Congo;8,5;4,91667;African_Savannah;Africa;Africa;ow;afr;no
+ekar1243;ekg;eka;Ekari;Wissel Lakes-Kemandoga;Trans-New Guinea;135,5;-3,83333;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+emai1241;ema;ora;Emai;Edoid;Niger-Congo;5,91667;7,08333;African_Savannah;Africa;Africa;ow;afr;no
+emer1243;eme;eme;Émérillon;Tupi-Guaraní;Tupian;-52,42;3,17;NE_South_America;S_America;South America;nw;nw;yes
+enet1250;enf;ene;Enets;Samoyedic;Uralic;86,5;67,5;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+enge1239;enn;egn;Engenni;Edoid;Niger-Congo;6,38333;5,16667;African_Savannah;Africa;Africa;ow;afr;no
+stan1293;eng;eng;English;Germanic;Indo-European;0;52;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+epen1239;sja;epe;Epena Pedee;Choco;Choco;-77;3;Andean;S_America;South America;nw;nw;yes
+atac1235;;esm;Esmeraldeño;Tacame;Tacame;-79,83333;0,33333;Andean;S_America;South America;nw;nw;yes
+esto1258;est;est;Estonian;Finnic;Uralic;26;59;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+even1260;eve;evn;Even;Tungusic;Altaic;130;68;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+even1259;evn;eve;Evenki;Tungusic;Altaic;125;56;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+ewee1241;ewe;ewe;Ewe;Kwa;Niger-Congo;0,41667;6,33333;African_Savannah;Africa;Africa;ow;afr;no
+eyak1241;eya;eya;Eyak;Eyak;Na-Dene;-145;60,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+fasu1242;faa;fas;Fasu;Fasu;Trans-New Guinea;143,33333;-6,58333;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+fiji1243;fij;fij;Fijian;Oceanic;Austronesian;178;-17,83333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+finn1318;fin;fin;Finnish;Finnic;Uralic;25;62;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+folo1238;ppo;pdp;Folopa/Podopa;Teberan;Teberan-Pawaian;144,5;-7;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+fore1270;for;for;Fore;Eastern Highlands;Trans-New Guinea;145,5;-6,75;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+occi1239;oci;pro;Franco-Provençal;Romance;Indo-European;6;44;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+stan1290;fra;fre;French;Romance;Indo-European;2;48;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+adam1253;fub;fua;Fula (Cameroonian);Northern Atlantic;Niger-Congo;13,5;9,16667;African_Savannah;Africa;Africa;ow;afr;no
+nige1253;fuv;fni;Fula (Nigerian);Northern Atlantic;Niger-Congo;10,5;8,16667;African_Savannah;Africa;Africa;ow;afr;no
+fuln1247;fun;ful;Fulniô;Yatê;Macro-Ge;-37,5;-8;NE_South_America;S_America;South America;nw;nw;yes
+furr1244;fvr;fur;Fur;Fur;Nilo-Saharan;25;13,5;African_Savannah;Africa;Africa;ow;afr;no
+futu1245;fut;fut;Futuna-Aniwa;Oceanic;Austronesian;170,21667;-19,53333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+fyam1238;pym;fye;Fyem;Platoid;Niger-Congo;9,33333;9,58333;African_Savannah;Africa;Africa;ow;afr;no
+gaga1251;gbu;gaa;Gaagudju;Gaagudju;Australian;132,8333333;-12,58333333;N_Australia;Australia;Australia;pac;pac;yes
+scot1245;gla;gae;Gaelic (Scots);Celtic;Indo-European;-4;57;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+alek1238;gah;gah;Gahuku;Eastern Highlands;Trans-New Guinea;145,41667;-6;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+damu1236;adi;gal;Galo;Tani;Sino-Tibetan;94,66667;28,16667;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+gamo1244;gmo;gam;Gamo;North Omotic;Afro-Asiatic;37,25;6,66667;Greater_Abyssinia;Africa;Africa;ow;afr;no
+garo1247;grt;gar;Garo;Bodo-Garo;Sino-Tibetan;90,5;25,66667;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+gara1269;gbc;grr;Garrwa;Garrwan;Australian;137,16667;-17,08333;N_Australia;Australia;Australia;pac;pac;yes
+gavi1246;gvo;gav;Gavião;Monde;Tupian;-62;-10,66667;NE_South_America;S_America;South America;nw;nw;yes
+nort2775;gya;gbk;Gbaya Kara;Gbaya-Manza-Ngbaka;Niger-Congo;15;6;African_Savannah;Africa;Africa;ow;afr;no
+gbay1287;gbp;gbb;Gbeya Bossangoa;Gbaya-Manza-Ngbaka;Niger-Congo;17,5;6,66667;African_Savannah;Africa;Africa;ow;afr;no
+nucl1302;kat;geo;Georgian;Kartvelian;Kartvelian;44;42;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+stan1295;deu;ger;German;Germanic;Indo-European;10;52;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+ghul1238;ghl;nbh;Ghulfan;Nubian;Nilo-Saharan;31;12;N_Africa;Africa;Africa;ow;afr;no
+gitx1241;git;git;Gitksan;Tsimshianic;Penutian;-127,75;55,33333;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+gogo1265;ggw;gog;Gogodala;Gogodala;Gogodala-Suki;142,83333;-8,08333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+goon1238;gni;goo;Gooniyandi;Bunuban;Australian;126,33333;-18,33333;N_Australia;Australia;Australia;pac;pac;yes
+apuc1241;apq;gan;Great Andamanese;Great Andamanese;Great Andamanese;92,66667;12;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+barc1235;grj;grb;Grebo;Kru;Niger-Congo;-8;5;African_Savannah;Africa;Africa;ow;afr;no
+mode1248;ell;grk;Greek (Modern);Greek;Indo-European;22;39;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+kala1399;kal;grw;Greenlandic (West);Eskimo;Eskimo-Aleut;-51;64;E_North_America;E_N_America;Eurasia;nw;nw;yes
+guah1255;guh;ghb;Guahibo;Guahiban;Guahiban;-69;5;NE_South_America;S_America;South America;nw;nw;yes
+guan1269;gvc;gno;Guanano;Tucanoan;Tucanoan;-69,5;0,83333;NE_South_America;S_America;South America;nw;nw;yes
+para1311;gug;gua;Guaraní;Tupi-Guaraní;Tupian;-56;-26;SE_South_America;S_America;South America;nw;nw;yes
+guat1253;gta;gto;Guató;Guató;Macro-Ge;-58;-17;NE_South_America;S_America;South America;nw;nw;yes
+gude1246;gde;gud;Gude;Biu-Mandara;Afro-Asiatic;13,41667;10,41667;African_Savannah;Africa;Africa;ow;afr;no
+kumb1268;kgs;gum;Gumbaynggir;Pama-Nyungan;Australian;152,5;-30,16667;S_Australia;Australia;Australia;pac;pac;yes
+gumu1244;guk;gmz;Gumuz;Gumuz;Nilo-Saharan;35,83333;12,5;Greater_Abyssinia;Africa;Africa;ow;afr;no
+puel1244;pue;gku;Gününa Küne;Puelche;Chon;-67;-41;SE_South_America;S_America;South America;nw;nw;yes
+fare1241;gur;grn;Gurenne;Gur;Niger-Congo;-0,91667;10,83333;African_Savannah;Africa;Africa;ow;afr;no
+guro1248;goa;gro;Guro;Eastern Mande;Niger-Congo;-6;7;African_Savannah;Africa;Africa;ow;afr;no
+guru1261;ggn;gur;Gurung;Bodic;Sino-Tibetan;84,33333;28,33333;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+gbag1258;gbr;gwa;Gwari;Nupoid;Niger-Congo;7;9,5;African_Savannah;Africa;Africa;ow;afr;no
+hadz1240;hts;had;Hadza;Hadza;Hadza;35,16667;-3,75;S_Africa;Africa;Africa;ow;afr;no
+haid1248;hdn;hai;Haida;Haida;Haida;-132;53;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+halk1245;hur;hli;Halkomelem (Island);Central Salish;Salishan;-123;49,2;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+halk1245;hur;hlu;Halkomelem (Upriver);Central Salish;Salishan;-121,92;49,25;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+hamt1247;hmt;ham;Hamtai;Angan;Trans-New Guinea;146,25;-7,5;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+hara1271;har;hrr;Harari;Semitic;Afro-Asiatic;42,16667;9,25;Greater_Abyssinia;Africa;Africa;ow;pac;yes
+hata1243;had;hat;Hatam;Hatam;West Papuan;134;-1;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+haus1257;hau;hau;Hausa;West Chadic;Afro-Asiatic;7;12;African_Savannah;Africa;Africa;ow;afr;no
+hdii1240;xed;hdi;Hdi;Biu-Mandara;Afro-Asiatic;13,71667;11,86667;African_Savannah;Africa;Africa;ow;afr;no
+hebr1245;heb;heb;Hebrew (Modern);Semitic;Afro-Asiatic;34,83333;31,5;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;afr;no
+hind1269;hin;hin;Hindi;Indic;Indo-European;77;25;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+hixk1239;hix;hix;Hixkaryana;Cariban;Cariban;-59;-1;NE_South_America;S_America;South America;nw;nw;yes
+huam1250;hnj;hmo;Hmong Njua;Hmong-Mien;Hmong-Mien;105;28;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+hopi1249;hop;hop;Hopi;Hopi;Uto-Aztecan;-110;36;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+yaga1260;ygr;hua;Hua;Eastern Highlands;Trans-New Guinea;145,33333;-6,33333;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+hava1248;yuf;hlp;Hualapai;Yuman;Hokan;-113,75;35,5;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+huas1256;hsf;htc;Huastec;Mayan;Mayan;-99,33333;22,08333;Mesoamerica;C_America;North America;nw;nw;yes
+sanm1287;huv;hve;Huave (San Mateo del Mar);Huavean;Huavean;-95;16,21667;Mesoamerica;C_America;North America;nw;nw;yes
+muru1274;huu;hum;Huitoto (Murui);Huitoto;Huitotoan;-73,5;-1;NE_South_America;S_America;South America;nw;nw;yes
+huli1244;hui;--;Huli;Engan;Trans-New Guinea;142,96;-5,97;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+hung1274;hun;hun;Hungarian;Ugric;Uralic;20;47;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+hunz1247;huz;hzb;Hunzib;Avar-Andic-Tsezic;Nakh-Daghestanian;46,25;42,16667;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+hupd1244;jup;hpd;Hup;Nadahup;Nadahup;-69,25;0,16667;NE_South_America;S_America;South America;nw;nw;yes
+iatm1242;ian;iat;Iatmul;Middle Sepik;Sepik;143,25;-4,25;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+iauu1242;tmu;iau;Iau;Lakes Plain;Lakes Plain;137,5;-3,16667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+icel1247;isl;ice;Icelandic;Germanic;Indo-European;-17;65;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+idom1241;idu;ido;Idoma;Idomoid;Niger-Congo;7,5;6,91667;African_Savannah;Africa;Africa;ow;afr;no
+idun1242;viv;idn;Iduna;Oceanic;Austronesian;150,25;-9,33333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+nucl1417;ibo;igb;Igbo;Igboid;Niger-Congo;7,33333;6;African_Savannah;Africa;Africa;ow;afr;no
+iged1239;ige;ige;Igede;Idomoid;Niger-Congo;8,16667;7;African_Savannah;Africa;Africa;ow;afr;no
+izon1238;ijc;ijo;Ijo (Kolokuma);Ijoid;Niger-Congo;5,66667;4,91667;African_Savannah;Africa;Africa;ow;afr;no
+ikkk1242;ikx;ik;Ik;Kuliak;Nilo-Saharan;34,16667;3,75;S_Africa;Africa;Africa;ow;afr;no
+arhu1242;arh;ika;Ika;Aruak;Chibchan;-73,75;10,66667;NE_South_America;S_America;South America;nw;nw;yes
+imon1245;imn;imo;Imonda;Border;Border;141,16667;-3,33333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+suab1238;szp;ina;Inanwatan;South Bird's Head;Marind;132,08333;-2,08333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+indo1316;ind;ind;Indonesian;Malayo-Sumbawan;Austronesian;106;0;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+riau1236;;;Riau Indonesian;Malayo-Sumbawan;Austronesian;101,45;0,53333;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+gaam1241;tbi;igs;Ingessana;Eastern Jebel;Nilo-Saharan;34;11,5;African_Savannah;Africa;Africa;ow;afr;no
+ingu1240;inh;ing;Ingush;Nakh;Nakh-Daghestanian;45,08333;43,16667;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+iqui1243;iqu;iqu;Iquito;Zaparoan;Zaparoan;-74;-3,25;NE_South_America;S_America;South America;nw;nw;yes
+iraq1241;irk;irq;Iraqw;Southern Cushitic;Afro-Asiatic;35,5;-4;S_Africa;Africa;Africa;ow;afr;no
+iris1253;gle;iri;Irish;Celtic;Indo-European;-8;53;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+kris1246;ksi;isa;I'saka;Krisa;Skou;141,28333;-2,83333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+isir1237;srl;isi;Isirawa;Kwerba;Kwerba;138,5;-1,83333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ital1282;ita;ita;Italian;Romance;Indo-European;12;43;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+itel1242;itl;ite;Itelmen;Southern Chukotko-Kamchatkan;Chukotko-Kamchatkan;157,5;57;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+iton1250;ito;ito;Itonama;Itonama;Itonama;-64,33333;-12,83333;NE_South_America;S_America;South America;nw;nw;yes
+iwai1244;ibd;iwa;Iwaidja;Iwaidjan;Australian;132,66667;-11,5;N_Australia;Australia;Australia;pac;pac;yes
+izie1238;izi;izi;Izi;Igboid;Niger-Congo;8;6,33333;African_Savannah;Africa;Africa;ow;afr;no
+djeo1235;jbt;jbt;Jabutí;Jabutí;Jabutí;-62,25;-12,25;NE_South_America;S_America;South America;nw;nw;yes
+jeha1242;jhi;jah;Jahai;Aslian;Austro-Asiatic;101,5;5,75;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+popt1235;jac;jak;Jakaltek;Mayan;Mayan;-91,66667;15,66667;Mesoamerica;C_America;North America;nw;nw;yes
+jama1261;jaa;jmm;Jamamadi;Arauan;Arauan;-67;-7,5;NE_South_America;S_America;South America;nw;nw;yes
+djam1255;djd;jam;Jaminjung;Jaminjungan;Australian;130,5;-15,08333;N_Australia;Australia;Australia;pac;pac;yes
+jams1239;djm;jms;Jamsay;Dogon;Niger-Congo;-2,5;14,41667;African_Savannah;Africa;Africa;ow;afr;no
+nucl1643;jpn;jpn;Japanese;Japanese;Japanese;140;37;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+jaqa1244;jqr;jaq;Jaqaru;Aymaran;Aymaran;-76;-13;Andean;S_America;South America;nw;nw;yes
+jara1245;anq;jrw;Jarawa (in Andamans);South Andamanese;South Andamanese;92,58333;12;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+kara1500;kpj;jva;Javaé;Karajá;Macro-Ge;-50,33333;-10;NE_South_America;S_America;South America;nw;nw;yes
+jebe1250;jeb;jeb;Jebero;Cahuapanan;Cahuapanan;-76,5;-5,41667;Andean;S_America;South America;nw;nw;yes
+kach1280;kac;jng;Jingpho;Jingpho;Sino-Tibetan;97;25,41667;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+shua1257;jiv;jiv;Jivaro;Jivaroan;Jivaroan;-78;-2,5;Andean;S_America;South America;nw;nw;yes
+jowu1238;jow;;Jowulu;Western Mande;Niger-Congo;-5,48;10,77;African_Savannah;Africa;Africa;ow;afr;no
+juho1239;ktz;juh;Ju|'hoan;Northern Khoisan;Khoisan;21;-19;S_Africa;Africa;Africa;ow;afr;no
+kaba1278;kbd;kab;Kabardian;Northwest Caucasian;Northwest Caucasian;43,5;43,5;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+kaby1243;kab;kbl;Kabyle;Berber;Afro-Asiatic;5;36,5;N_Africa;Africa;Africa;ow;afr;no
+kadi1248;kbc;kdw;Kadiwéu;Guaicuruan;Guaicuruan;-57;-20;SE_South_America;S_America;South America;nw;nw;yes
+kagf1238;gel;;Kag-Fer-Jiir-Koor-Ror-Us-Zuksun;Kainji;Niger-Congo;4,84;11,53;African_Savannah;Africa;Africa;ow;afr;no
+kago1247;kdm;kgm;Kagoma;Platoid;Niger-Congo;8,16667;9,25;African_Savannah;Africa;Africa;ow;afr;no
+kain1272;kgp;kng;Kaingang;Ge-Kaingang;Macro-Ge;-52;-26;SE_South_America;S_America;South America;nw;nw;yes
+kaki1249;tbd;kae;Kaki Ae;Tate;Eleman;145,83333;-8;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+kala1400;kyl;klp;Kalapuya;Kalapuyan;Kalapuyan;-123;44,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+limo1248;kmk;;Kalinga (Limos);Central Luzon;Austronesian;121,38;17,61;Oceania;S_&_SE_Asia;Papunesia;ow;eur;no
+kalk1246;ktg;kgu;Kalkatungu;Pama-Nyungan;Australian;139,5;-21;S_Australia;Australia;Australia;pac;pac;yes
+kalm1243;xal;kmk;Kalmyk;Mongolic;Altaic;83;44;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+kama1351;xas;kms;Kamass;Samoyedic;Uralic;92;52;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+kamb1299;xbr;kam;Kambera;Central Malayo-Polynesian;Austronesian;120,16667;-9,83333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+kamo1255;kgq;kmr;Kamoro;Asmat-Kamoro;Trans-New Guinea;136;-4,33333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+kamu1258;xmu;kmw;Kamu;Eastern Daly;Australian;130,83333;-13,58333;N_Australia;Australia;Australia;pac;pac;yes
+kamu1260;xla;;Kamula;Awin-Pare;Awin-Pare;142,64;-7,29;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+khan1278;ogo;kan;Kana;Cross River;Niger-Congo;7,41667;4,75;African_Savannah;Africa;Africa;ow;afr;no
+west2635;knj;kwe;Kanjobal (Western);Mayan;Mayan;-91,83333;15,83333;Mesoamerica;C_America;North America;nw;nw;yes
+nucl1305;kan;knd;Kannada;Southern Dravidian;Dravidian;76;14;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+badi1247;khd;knb;Kanum (Bädi);Morehead and Upper Maro Rivers;Morehead and Upper Maro Rivers;140,75;-8,83333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ngka1235;kcd;knp;Kanum (Ngkâlmpw);Morehead and Upper Maro Rivers;Morehead and Upper Maro Rivers;140,92;-8,67;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+cent2050;knc;knr;Kanuri;Western Saharan;Nilo-Saharan;13;12;African_Savannah;Africa;Africa;ow;afr;no
+pamp1243;pam;kpm;Kapampangan;Central Luzon;Austronesian;120,5;15,33333;Oceania;S_&_SE_Asia;Papunesia;ow;eur;no
+kara1486;leu;kra;Kara (in Papua New Guinea);Oceanic;Austronesian;151,1166667;-2,833333333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+sgaw1245;ksw;ksg;Karen (Sgaw);Karen;Sino-Tibetan;97;18;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+kari1311;ktn;kna;Karitiâna;Arikem;Tupian;-64;-9,5;NE_South_America;S_America;South America;nw;nw;yes
+kark1258;yuj;kyr;Karkar-Yuri;Karkar-Yuri;Karkar-Yuri;141,08333;-3,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+karo1305;arr;kaa;Karó (Arára);Ramarama;Tupian;-62;-10,33333;NE_South_America;S_America;South America;nw;nw;yes
+karo1304;kyh;krk;Karok;Karok;Karok;-123;41,66667;California;W_N_America;North America;nw;nw;yes
+kase1253;xsm;ksm;Kasem;Gur;Niger-Congo;-1,25;11,25;African_Savannah;Africa;Africa;ow;afr;no
+kash1277;kas;kas;Kashmiri;Indic;Indo-European;76;34;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+suoy1242;;ksn;Kasong;Pearic;Austro-Asiatic;102,11667;12,75;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;yes
+yong1280;yon;kti;Kati (in West Papua, Indonesia);Ok;Trans-New Guinea;140,91667;-5,75;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+katl1237;kcr;ktl;Katla;Katla-Tima;Niger-Congo;29,33333;11,83333;African_Savannah;Africa;Africa;ow;afr;no
+kaur1271;bpp;kaj;Kaure;Kaure;Kaure;140,08333;-3,41667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+east2342;eky;kyl;Kayah Li (Eastern);Karen;Sino-Tibetan;97,5;19;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+kaya1319;gyd;kay;Kayardild;Tangkic;Australian;139,5;-17,05;N_Australia;Australia;Australia;pac;pac;yes
+keii1239;kei;kei;Kei;Central Malayo-Polynesian;Austronesian;132,91667;-5,83333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+kekc1242;kek;kek;K'ekchi;Mayan;Mayan;-89,83333;16;Mesoamerica;C_America;North America;nw;nw;yes
+qima1242;ahg;kem;Kemant;Central Cushitic;Afro-Asiatic;37,41667;12,66667;Greater_Abyssinia;Africa;Africa;ow;afr;no
+keoo1238;xxk;keo;Ke'o;Central Malayo-Polynesian;Austronesian;121,25;-8,83333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+kera1255;ker;ker;Kera;East Chadic;Afro-Asiatic;15,08333;9,83333;African_Savannah;Africa;Africa;ow;afr;no
+kett1243;ket;ket;Ket;Yeniseian;Yeniseian;87;64;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+kewa1250;kew;kew;Kewa;Engan;Trans-New Guinea;143,83333;-6,5;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+halh1238;khk;kha;Khalkha;Mongolic;Altaic;105;47;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+gama1251;kgj;kmh;Kham;Mahakiranti;Sino-Tibetan;82,75;28,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+kham1290;kht;;Khamti;Kam-Tai;Tai-Kadai;97,04;27,67;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+khan1273;kca;kty;Khanty (Eastern);Ugric;Uralic;65;65;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+khas1269;kha;khs;Khasi;Khasian;Austro-Asiatic;92;25,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+cent1989;khm;khm;Khmer;Khmer;Austro-Asiatic;105;12,5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+khmu1256;kjg;kmu;Khmu';Palaung-Khmuic;Austro-Asiatic;102;21;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+nama1264;naq;kho;Khoekhoe;Central Khoisan;Khoisan;18;-25,5;S_Africa;Africa;Africa;ow;afr;no
+kili1267;kij;klv;Kilivila;Oceanic;Austronesian;151,08333;-8,5;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+kima1246;kig;kim;Kimaghama;Kolopom;Kolopom;138,5;-8;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+kiow1266;kio;kio;Kiowa;Kiowa-Tanoan;Kiowa-Tanoan;-99;37;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+kari1255;kzw;kri;Kipea;Kariri;Kariri;-37;-10;NE_South_America;S_America;South America;nw;nw;yes
+gilb1244;gil;krb;Kiribati;Oceanic;Austronesian;173;1,33333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+kiri1256;kiy;kkr;Kirikiri;Lakes Plain;Lakes Plain;137,16667;-3;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+kiss1245;kqs;kis;Kisi;Mel;Niger-Congo;-10,16667;8,83333;African_Savannah;Africa;Africa;ow;afr;no
+nort2930;kiw;kiw;Kiwai;Kiwaian;Kiwaian;143,5;-8;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+klam1254;kla;klm;Klamath;Klamath-Modoc;Penutian;-121,5;42,5;Basin_and_Plains;W_N_America;North America;nw;nw;yes
+klao1243;klu;kla;Klao;Kru;Niger-Congo;-8,75;4,75;African_Savannah;Africa;Africa;ow;afr;no
+koas1236;cku;koa;Koasati;Muskogean;Muskogean;-85,16667;34,83333;E_North_America;E_N_America;North America;nw;nw;yes
+kobo1249;kpw;kob;Kobon;Madang;Trans-New Guinea;144,33333;-5,16667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+gras1249;kbk;koi;Koiari;Koiarian;Trans-New Guinea;147,33333;-9,5;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+kola1242;kfb;kol;Kolami;Central Dravidian;Dravidian;78,5;20;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+wers1238;kvw;kln;Kolana;Kolana-Tanglapui;Timor-Alor-Pantar;125,11667;-8,25;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+ndei1235;tyn;kmb;Kombai;Awju-Dumut;Trans-New Guinea;140;-5,58333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+komb1272;xbi;xbi;Kombio;Kombio-Arapesh;Torricelli;142,75;-3,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+komi1268;kpv;kzy;Komi-Zyrian;Permic;Uralic;55;65;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+komo1258;xom;kom;Komo;Koman;Nilo-Saharan;33,75;8,75;Greater_Abyssinia;Africa;Africa;ow;afr;no
+koon1244;kng;kon;Kongo;Bantoid;Niger-Congo;15;-5;S_Africa;Africa;Africa;ow;afr;no
+kore1280;kor;kor;Korean;Korean;Korean;128;37,5;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+kore1283;coe;kje;Koreguaje;Tucanoan;Tucanoan;-75,5;1;NE_South_America;S_America;South America;nw;nw;yes
+kork1243;kfq;kku;Korku;Munda;Austro-Asiatic;78,5;22,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+koro1298;kfz;kfe;Koromfe;Gur;Niger-Congo;-0,91667;14,25;African_Savannah;Africa;Africa;ow;afr;no
+kota1263;kfe;kot;Kota;Southern Dravidian;Dravidian;77,16667;11,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+koyr1240;khq;kch;Koyra Chiini;Songhay;Nilo-Saharan;-3;17;African_Savannah;Africa;Africa;ow;afr;no
+koyr1242;ses;kse;Koyraboro Senni;Songhay;Nilo-Saharan;0;16;African_Savannah;Africa;Africa;ow;afr;no
+libe1247;xpe;kpe;Kpelle;Western Mande;Niger-Congo;-10;7;African_Savannah;Africa;Africa;ow;afr;no
+ikpo1238;kpo;kpo;Kposo;Kwa;Niger-Congo;0,83333;7,5;African_Savannah;Africa;Africa;ow;afr;no
+gbay1288;krs;kre;Kresh;Kresh;Nilo-Saharan;24,5;8,5;African_Savannah;Africa;Africa;ow;afr;no
+kron1241;kgo;kro;Krongo;Kadugli;Kadugli;30;10,5;African_Savannah;Africa;Africa;ow;afr;no
+kuma1280;kue;kmn;Kuman;Chimbu;Trans-New Guinea;145;-5,91667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+bord1248;kvn;kun;Kuna;Kuna;Chibchan;-77,33333;8;Andean;S_America;South America;nw;nw;yes
+kuna1268;kun;knm;Kunama;Kunama;Nilo-Saharan;37;14,5;Greater_Abyssinia;Africa;Africa;ow;afr;no
+kuni1267;kup;kmp;Kunimaipa;Goilalan;Trans-New Guinea;146,83333;-8;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+kuot1243;kto;kuo;Kuot;Kuot;Kuot;151,5;-3,05;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+nort2641;kmr;krd;Kurdish (Central);Iranian;Indo-European;44;36;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+kusu1250;kgg;kus;Kusunda;Kusunda;Kusunda;84,66667;28;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+kute1249;kut;kut;Kutenai;Kutenai;Kutenai;-116;49,5;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+kwai1243;kwd;kwa;Kwaio;Oceanic;Austronesian;161;-8,95;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+kwak1269;kwk;kwk;Kwakw'ala;Northern Wakashan;Wakashan;-127;51;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+kwam1252;tnk;kwr;Kwamera;Oceanic;Austronesian;169,41667;-19,58333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+kwar1239;kwf;;Kwara'Ae;Oceanic;Austronesian;160,8;-8,76;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+kwaz1243;xwa;kwz;Kwazá;Kwaza;Kwaza;-60,66667;-12,58333;NE_South_America;S_America;South America;nw;nw;yes
+nucl1595;kwe;kwb;Kwerba;Kwerba;Kwerba;138,5;-2,25;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+kwom1262;kmo;kwo;Kwoma;Middle Sepik;Sepik;142,75;-4,16667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+nucl1593;kwo;kwt;Kwomtari;Kwomtari;Kwomtari-Baibai;141,5;-3,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+laal1242;gdm;laa;Laal;Laal;Laal;17,66667;10;African_Savannah;Africa;Africa;ow;afr;no
+lach1248;lbt;lch;Lachi;Kadai;Tai-Kadai;104,83333;22,66667;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+lada1244;lbj;lad;Ladakhi;Bodic;Sino-Tibetan;78;34;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+lafo1243;laf;laf;Lafofa;Tegem;Niger-Congo;31,25;10,25;African_Savannah;Africa;Africa;ow;afr;no
+lahu1253;lhu;lah;Lahu;Burmese-Lolo;Sino-Tibetan;98,16667;20;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+haka1240;cnh;lai;Lai;Kuki-Chin;Sino-Tibetan;93,66667;22,66667;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+lakk1252;lbe;lak;Lak;Lak-Dargwa;Nakh-Daghestanian;47,16667;42,16667;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+lako1247;lkt;lkt;Lakhota;Siouan;Siouan;-101,83333;43,83333;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+xish1235;ywt;lal;Lalo;Burmese-Lolo;Sino-Tibetan;100,25;25;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+lang1324;laj;lan;Lango;Nilotic;Nilo-Saharan;33;2,16667;S_Africa;Africa;Africa;ow;afr;no
+laoo1244;lao;lao;Lao;Kam-Tai;Tai-Kadai;103;18;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+lara1258;lrg;lar;Laragia;Laragiyan;Australian;130,83333;-12,66667;N_Australia;Australia;Australia;pac;pac;yes
+latv1249;lav;lat;Latvian;Baltic;Indo-European;24;57;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+lavu1241;lvk;lav;Lavukaleve;Lavukaleve;Solomons East Papuan;159,2;-9,08333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+lele1276;lln;lel;Lele;East Chadic;Afro-Asiatic;15,58333;9,08333;African_Savannah;Africa;Africa;ow;afr;no
+lepc1244;lep;lep;Lepcha;Lepcha;Sino-Tibetan;88,5;27,16667;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+leti1246;lti;let;Leti;Central Malayo-Polynesian;Austronesian;127,66667;-8,2;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+lezg1247;lez;lez;Lezgian;Lezgic;Nakh-Daghestanian;47,83333;41,66667;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+ligb1244;lig;;Ligbi;Western Mande;Niger-Congo;-2,56;7,94;African_Savannah;Africa;Africa;ow;afr;no
+nucl1327;lmc;lml;Limilngan;Limilngan;Australian;131,91667;-12,5;N_Australia;Australia;Australia;pac;pac;yes
+ling1263;lin;lin;Lingala;Bantoid;Niger-Congo;18,5;2;S_Africa;Africa;Africa;ow;afr;no
+lisu1250;lis;lis;Lisu;Burmese-Lolo;Sino-Tibetan;98;26;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+lith1251;lit;lit;Lithuanian;Baltic;Indo-European;24;55;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+loka1252;yaz;;Lokaa;Cross River;Niger-Congo;8,09;5,91;African_Savannah;Africa;Africa;ow;afr;no
+lolo1259;ycl;;Lolopo;Burmese-Lolo;Sino-Tibetan;101,3;25,50;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+lugb1240;lgg;lug;Lugbara;Moru-Ma'di;Nilo-Saharan;30,91667;3,08333;S_Africa;Africa;Africa;ow;afr;no
+luis1253;lui;lui;Luiseño;Takic;Uto-Aztecan;-117,16667;33,33333;California;W_N_America;North America;nw;nw;yes
+lund1266;lun;lbu;Lunda;Bantoid;Niger-Congo;24;-10,66667;S_Africa;Africa;Africa;ow;afr;no
+luok1236;luo;luo;Luo;Nilotic;Nilo-Saharan;34,75;-0,5;S_Africa;Africa;Africa;ow;afr;no
+luva1239;lue;luv;Luvale;Bantoid;Niger-Congo;22;-12;S_Africa;Africa;Africa;ow;afr;no
+masa1300;mas;maa;Maasai;Nilotic;Nilo-Saharan;36;-3;S_Africa;Africa;Africa;ow;afr;no
+maba1277;mde;mab;Maba;Maban;Nilo-Saharan;20,83333;13,75;African_Savannah;Africa;Africa;ow;afr;no
+mace1250;mkd;mcd;Macedonian;Slavic;Indo-European;21,75;41,66667;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+macu1260;myy;mcn;Macuna;Tucanoan;Tucanoan;-70,16667;-0,33333;NE_South_America;S_America;South America;nw;nw;yes
+macu1259;mbc;mac;Macushi;Cariban;Cariban;-60;4;NE_South_America;S_America;South America;nw;nw;yes
+madi1260;mhi;mad;Ma'di;Moru-Ma'di;Nilo-Saharan;31,5;3,25;S_Africa;Africa;Africa;ow;afr;no
+mail1248;mgu;mgi;Magi;Mailuan;Trans-New Guinea;149,33333;-10,33333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+nort2952;nmu;mne;Maidu (Northeast);Maiduan;Penutian;-120,66667;40;Basin_and_Plains;W_N_America;North America;nw;nw;yes
+nucl1594;zrs;mrs;Mairasi;Mairasi-Tanahmerah;Trans-New Guinea;134;-3,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+maka1318;myh;mak;Makah;Southern Wakashan;Wakashan;-124,66667;48,33333;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+maka1316;mkz;mkj;Makasae;Makasae-Fataluku-Oirata;Timor-Alor-Pantar;126,5;-8,66667;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+makl1246;mgf;mkl;Maklew;Bulaka River;Bulaka River;139,41667;-7,66667;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+makh1264;mgh;mua;Makua;Bantoid;Niger-Congo;38,66667;-15;S_Africa;Africa;Africa;ow;afr;no
+plat1254;plt;mal;Malagasy;Barito;Austronesian;47;-20;Southeast_Asia;S_&_SE_Asia;Africa;ow;eur;no
+mull1237;mpb;mlk;Malakmalak;Northern Daly;Australian;130,41667;-13,41667;N_Australia;Australia;Australia;pac;pac;yes
+mala1464;mal;mym;Malayalam;Southern Dravidian;Dravidian;76,5;10;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+male1282;pkt;;Maleng;Viet-Muong;Austro-Asiatic;105,53;17,91;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+mali1284;gcc;mli;Mali;Baining;Baining-Taulil;152,25;-4,83333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+malt1254;mlt;mlt;Maltese;Semitic;Afro-Asiatic;14,41667;35,91667;Europe;W_&_SW_Eurasia;Eurasia;ow;afr;no
+mamc1234;mvc;mam;Mam;Mayan;Mayan;-91,83333;15;Mesoamerica;C_America;North America;nw;nw;yes
+mamv1243;mdi;mmv;Mamvu;Mangbutu-Efe;Nilo-Saharan;29;3,25;S_Africa;Africa;Africa;ow;afr;no
+mala1481;xmm;mds;Manadonese;Malayo-Sumbawan;Austronesian;124,83333;1,5;Oceania;NG_&_Oceania;Papunesia;ow;eur;no
+mana1295;mva;mnm;Manam;Oceanic;Austronesian;145;-4;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+manc1252;mnc;mnc;Manchu;Tungusic;Altaic;127,5;49,5;Inner_Asia;NC_Asia;Eurasia;ow;eur;yes
+mand1446;mhq;mdn;Mandan;Siouan;Siouan;-102,5;46,5;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+mand1415;cmn;mnd;Mandarin;Chinese;Sino-Tibetan;110;34;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+mand1436;mnk;mdk;Mandinka;Western Mande;Niger-Congo;-15,66667;13;African_Savannah;Africa;Africa;ow;afr;no
+mang1381;mpc;myi;Mangarrayi;Mangarrayi;Australian;133,5;-14,66667;N_Australia;Australia;Australia;pac;pac;yes
+mang1394;mdj;mbt;Mangbetu;Mangbetu;Nilo-Saharan;26,5;2,5;S_Africa;Africa;Africa;ow;afr;no
+west2500;mlq;maw;Maninka (Western);Western Mande;Niger-Congo;-11;13;African_Savannah;Africa;Africa;ow;afr;no
+mans1258;mns;mns;Mansi;Ugric;Uralic;62;62;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+maor1246;mri;mao;Maori;Oceanic;Austronesian;176;-40;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+mapu1245;arn;map;Mapudungun;Araucanian;Araucanian;-72;-38;Andean;S_America;South America;nw;nw;yes
+mara1386;zmr;mku;Maranungku;Western Daly;Australian;130;-13,66667;N_Australia;Australia;Australia;pac;pac;yes
+mara1396;mgb;;Mararit;Taman;Nilo-Saharan;21,64;14,09;African_Savannah;Africa;Africa;ow;afr;no
+mara1378;mar;mhi;Marathi;Indic;Indo-European;76;19;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+marg1265;mrt;mrg;Margi;Biu-Mandara;Afro-Asiatic;13;11;African_Savannah;Africa;Africa;ow;afr;no
+east2328;mhr;mme;Mari (Meadow);Mari;Uralic;48;57;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+mari1440;mrc;mar;Maricopa;Yuman;Hokan;-113,16667;33,16667;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+nucl1622;mrz;mrd;Marind;Marind Proper;Marind;140,16667;-7,83333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+mari1424;mfr;mrh;Marrithiyel;Western Daly;Australian;130;-13,83333;N_Australia;Australia;Australia;pac;pac;yes
+mart1255;vma;mrt;Martuthunira;Pama-Nyungan;Australian;116,5;-20,83333;S_Australia;Australia;Australia;pac;pac;yes
+masa1322;mcn;mas;Masa;Masa;Afro-Asiatic;15,5;10,5;African_Savannah;Africa;Africa;ow;afr;no
+ngil1242;jle;msk;Masakin;Talodi Proper;Niger-Congo;30;10,66667;African_Savannah;Africa;Africa;ow;afr;no
+nucl1440;mls;msl;Masalit;Maban;Nilo-Saharan;22;13,33333;African_Savannah;Africa;Africa;ow;afr;no
+mass1263;mvs;;Massep;Kwerba;Kwerba;138,29;-1,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+maun1240;mph;mau;Maung;Iwaidjan;Australian;133,5;-11,91667;N_Australia;Australia;Australia;pac;pac;yes
+maxa1247;mbl;max;Maxakalí;Maxakalí;Macro-Ge;-40;-18;SE_South_America;S_America;South America;nw;nw;yes
+maya1285;yan;;Sumu;Misumalpan;Misumalpan;-84,34;14,13;Mesoamerica;C_America;North America;nw;nw;yes
+maib1239;ayz;may;Maybrat;North-Central Bird's Head;West Papuan;132,5;-1,33333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+chiq1250;maq;mzc;Mazatec (Chiquihuitlán);Popolocan;Oto-Manguean;-96,91667;17,75;Mesoamerica;C_America;North America;nw;nw;yes
+huau1238;mau;mzh;Mazatec (Huautla);Popolocan;Oto-Manguean;-96,83333;18,25;Mesoamerica;C_America;North America;nw;nw;yes
+gbay1281;gmm;mdo;Mbodomo;Gbaya-Manza-Ngbaka;Niger-Congo;15,5;4,5;African_Savannah;Africa;Africa;ow;afr;no
+mbum1254;mdd;mbm;Mbum;Adamawa;Niger-Congo;13,16667;7,75;African_Savannah;Africa;Africa;ow;afr;no
+mani1292;mni;mei;Meithei;Kuki-Chin;Sino-Tibetan;94;24,75;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+saki1248;skf;mek;Mekens;Tupari;Tupian;-61,5;-12,5;NE_South_America;S_America;South America;nw;nw;yes
+mend1266;men;mde;Mende;Western Mande;Niger-Congo;-11,5;7,83333;African_Savannah;Africa;Africa;ow;afr;no
+meri1244;ulk;mer;Meryam Mir;Western Fly;Western Fly;144,08333;-9,91667;N_Australia;Australia;Papunesia;pac;pac;yes
+meya1236;mej;mea;Meyah;East Bird's Head;East Bird's Head;133,5;-1,16667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+iumi1238;ium;mie;Mien;Hmong-Mien;Hmong-Mien;111;25;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+tama1331;tma;mii;Miisiirii;Taman;Nilo-Saharan;22;13,5;African_Savannah;Africa;Africa;ow;afr;no
+karb1241;mjw;mik;Mikir;Kuki-Chin;Sino-Tibetan;93,5;26,33333;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+mina1268;min;min;Minangkabau;Malayo-Sumbawan;Austronesian;101;-1;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+misk1235;miq;mis;Miskito;Misumalpan;Misumalpan;-83,66667;14;Mesoamerica;C_America;North America;nw;nw;yes
+sout2985;skd;mss;Miwok (Southern Sierra);Miwok;Penutian;-120;37,5;California;W_N_America;North America;nw;nw;yes
+isth1238;mir;;Mixe (Isthmus);Mixe-Zoque;Mixe-Zoque;-95,07;16,95;Mesoamerica;C_America;North America;nw;nw;yes
+alac1244;mim;mxl;Mixtec (Alacatlatzala);Mixtecan;Oto-Manguean;-98,58333;17,25;Mesoamerica;C_America;North America;nw;nw;yes
+sanm1295;mig;mxc;Mixtec (Chalcatongo);Mixtecan;Oto-Manguean;-97,58333;17,05;Mesoamerica;C_America;North America;nw;nw;yes
+diux1235;xtd;;Mixtec (Diuxi-Tilantongo);Mixtecan;Oto-Manguean;-97,39;17,36;Mesoamerica;C_America;North America;nw;nw;yes
+jami1235;mxt;mja;Mixtec (Jamiltepec);Mixtecan;Oto-Manguean;-97,83333;16,25;Mesoamerica;C_America;North America;nw;nw;yes
+pino1237;mio;mxj;Mixtec (Jicaltepec);Mixtecan;Oto-Manguean;-98;16,33333;Mesoamerica;C_America;North America;nw;nw;yes
+ocot1243;mie;mxo;Mixtec (Ocotepec);Mixtecan;Oto-Manguean;-97,75;17,16667;Mesoamerica;C_America;North America;nw;nw;yes
+sila1250;mks;mxs;Mixtec (Silacayoapan);Mixtecan;Oto-Manguean;-98,16667;17,5;Mesoamerica;C_America;North America;nw;nw;yes
+yoso1239;mpm;mxy;Mixtec (Yosondúa);Mixtecan;Oto-Manguean;-97,58333;16,91667;Mesoamerica;C_America;North America;nw;nw;yes
+miya1266;mkf;miy;Miya;West Chadic;Afro-Asiatic;9,66667;10,91667;African_Savannah;Africa;Africa;ow;afr;no
+mlab1235;mra;mlm;Mlabri (Minor);Palaung-Khmuic;Austro-Asiatic;101;18,5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+moch1259;omc;mcc;Mochica;Chimúan;Chimúan;-79,33333;-7,5;Andean;S_America;South America;nw;nw;yes
+moha1258;moh;moh;Mohawk;Northern Iroquoian;Iroquoian;-74,25;43,5;E_North_America;E_N_America;North America;nw;nw;yes
+mola1238;mbe;mll;Molala;Molala;Penutian;-122,5;44,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+nucl1452;mso;mom;Mombum;Mombum;Mombum;138,75;-8,25;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+fass1245;fqs;fqs;Momu;Fas;Kwomtari-Baibai;141,58333;-3;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+monn1252;mnw;mon;Mon;Monic;Austro-Asiatic;100,5;14,83333;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+moni1261;mnz;mni;Moni;Wissel Lakes-Kemandoga;Trans-New Guinea;137;-3,66667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+erzy1239;myv;moe;Mordvin (Erzya);Mordvin;Uralic;45,5;53;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+moro1285;mor;mro;Moro;Heiban;Niger-Congo;30,16667;11;African_Savannah;Africa;Africa;ow;afr;no
+mose1249;cas;mos;Mosetén;Mosetenan;Mosetenan;-67,83333;-14,75;NE_South_America;S_America;South America;nw;nw;yes
+movi1243;mzp;mov;Movima;Movima;Movima;-65,66667;-13,83333;NE_South_America;S_America;South America;nw;nw;yes
+mpur1239;akc;mpu;Mpur;Kebar;West Papuan;133,25;-0,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+mufi1238;aoj;aoj;Mufian;Kombio-Arapesh;Torricelli;143;-3,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+barg1252;mlp;mug;Mugil;Madang;Trans-New Guinea;145,75;-4,88333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+muin1242;bmr;mui;Muinane;Boran;Huitotoan;-72,5;-1;NE_South_America;S_America;South America;nw;nw;yes
+chib1270;chb;msc;Muisca;Chibchan Proper;Chibchan;-74;5;NE_South_America;S_America;South America;nw;nw;yes
+mula1253;mlm;mul;Mulao;Kam-Tai;Tai-Kadai;108;25;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+nucl1240;mzm;mum;Mumuye;Adamawa;Niger-Congo;11,66667;9;African_Savannah;Africa;Africa;ow;afr;no
+mund1320;unr;mun;Mundari;Munda;Austro-Asiatic;84,66667;23;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+mund1330;myu;muu;Mundurukú;Munduruku;Tupian;-58;-7;NE_South_America;S_America;South America;nw;nw;yes
+murl1244;mur;mrl;Murle;Surmic;Nilo-Saharan;33,5;6,5;African_Savannah;Africa;Africa;ow;afr;no
+murr1258;mwf;mpa;Murrinh-Patha;Murrinh-Patha;Australian;129,66667;-14,66667;N_Australia;Australia;Australia;pac;pac;yes
+murs1242;muz;mur;Mursi;Surmic;Nilo-Saharan;36,08333;5,58333;Greater_Abyssinia;Africa;Africa;ow;afr;no
+muse1242;mse;;Musey;Masa;Afro-Asiatic;15,41;9,82;African_Savannah;Africa;Africa;ow;afr;no
+muso1238;msu;msm;Musom;Oceanic;Austronesian;147;-6,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+sout2986;css;mut;Mutsun;Costanoan;Penutian;-121,5;36,83333;California;W_N_America;North America;nw;nw;yes
+nade1244;mbj;nad;Nadëb;Nadahup;Nadahup;-66,5;-1;NE_South_America;S_America;South America;nw;nw;yes
+yale1246;nce;nag;Nagatman;Yale;Yale;141,5;-3,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+niha1238;nll;nah;Nahali;Nahali;Nahali;77,83333;19,75;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+huas1257;nhe;nhh;Nahuatl (Huasteca);Aztecan;Uto-Aztecan;-99;22;Mesoamerica;C_America;North America;nw;nw;yes
+mich1245;ncl;nhm;Nahuatl (Michoacán);Aztecan;Uto-Aztecan;-103;18,5;Mesoamerica;C_America;North America;nw;nw;yes
+nort2957;ncj;nhn;Nahuatl (North Puebla);Aztecan;Uto-Aztecan;-98,25;20;Mesoamerica;C_America;North America;nw;nw;yes
+tete1251;nhg;nht;Nahuatl (Tetelcingo);Aztecan;Uto-Aztecan;-99;19,66667;Mesoamerica;C_America;North America;nw;nw;yes
+sout2994;nab;nmb;Nambikuára;Nambikuaran;Nambikuaran;-59;-13;NE_South_America;S_America;South America;nw;nw;yes
+nami1256;nnm;nam;Namia;Yellow River;Sepik;141,75;-3,83333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+nana1257;gld;nai;Nanai;Tungusic;Altaic;137;49,5;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+nara1262;nrb;nar;Nara (in Ethiopia);Nara;Nilo-Saharan;37,58333;15,08333;Greater_Abyssinia;Africa;Africa;ow;afr;no
+naas1242;nas;nas;Nasioi;East Bougainville;East Bougainville;155,58333;-6,33333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+natc1249;ncz;nat;Natchez;Natchez;Natchez;-91,33333;31,75;E_North_America;E_N_America;North America;nw;nw;yes
+nava1243;nav;nav;Navajo;Athapaskan;Na-Dene;-108;36,16667;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+naxi1245;nbf;nax;Naxi;Naxi;Sino-Tibetan;100;27,5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+sout2808;nbl;ndb;Ndebele (in South Africa);Bantoid;Niger-Congo;29;-25,33333;S_Africa;Africa;Africa;ow;afr;no
+djee1236;djj;ndj;Ndjébbana;Ndjébbana;Australian;134,11667;-12,16667;N_Australia;Australia;Australia;pac;pac;yes
+ndog1248;ndz;ndg;Ndogo;Ubangi;Niger-Congo;27;7,75;African_Savannah;Africa;Africa;ow;afr;no
+nend1239;anh;nnd;Nend;Madang;Trans-New Guinea;144,91667;-5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+nene1249;yrk;nen;Nenets;Samoyedic;Uralic;72;69;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+nepa1254;nep;nep;Nepali;Indic;Indo-European;85;28;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+newa1246;new;new;Newari (Kathmandu);Mahakiranti;Sino-Tibetan;85,5;27,66667;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+nezp1238;nez;nez;Nez Perce;Sahaptian;Penutian;-116;46;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+ngaa1240;ntj;wdo;Ngaanyatjarra/Western Desert (Ooldea);Pama-Nyungan;Australian;132;-30,5;S_Australia;Australia;Australia;pac;pac;yes
+ngab1239;gym;nbr;Ngäbere;Guaymi;Chibchan;-82;8,66667;Mesoamerica;C_America;North America;nw;nw;yes
+ngad1261;nxg;ngd;Ngad'a;Central Malayo-Polynesian;Austronesian;121;-8,83333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+ngal1293;nig;ngl;Ngalakan;Ngalakan;Australian;134;-14,25;N_Australia;Australia;Australia;pac;pac;yes
+ngan1295;nid;ngn;Ngandi;Ngandi;Australian;135;-13,83333;N_Australia;Australia;Australia;pac;pac;yes
+ngan1299;gng;;Ngangam;Gur;Niger-Congo;0,71;10,25;African_Savannah;Africa;Africa;ow;afr;no
+nang1259;nam;ngg;Ngan'gityemerri;Southern Daly;Australian;130,41667;-14,25;N_Australia;Australia;Australia;pac;pac;yes
+ngar1286;nlr;nlr;Ngarla;Pama-Nyungan;Australian;119;-20;S_Australia;Australia;Australia;pac;pac;yes
+ngba1285;nga;ngb;Ngbaka (Minagende);Gbaya-Manza-Ngbaka;Niger-Congo;20;3,5;S_Africa;Africa;Africa;ow;afr;no
+ngit1239;niy;nti;Ngiti;Lendu;Nilo-Saharan;30,25;1,33333;S_Africa;Africa;Africa;ow;afr;no
+nhan1238;nha;nha;Nhanda;Pama-Nyungan;Australian;114,16667;-27;S_Australia;Australia;Australia;pac;pac;yes
+nhen1239;yrl;;Nhengatu;Tupi-Guaraní;Tupian;-66,96;1,05;NE_South_America;S_America;South America;nw;nw;yes
+nias1242;nia;nia;Nias;Northwest Sumatra-Barrier Islands;Austronesian;97,75;1;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+carn1240;caq;nca;Nicobarese (Car);Nicobarese;Austro-Asiatic;93;9;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+niii1240;nii;;Nii;Chimbu;Trans-New Guinea;144,52;-5,76;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+nucl1633;nir;nim;Nimboran;Nimboran;Nimboran;140,16667;-2,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+gily1242;niv;niv;Nivkh;Nivkh;Nivkh;142;53,33333;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+chig1238;cgg;nko;Nkore-Kiga;Bantoid;Niger-Congo;29,83333;-0,91667;S_Africa;Africa;Africa;ow;afr;no
+nobi1240;fia;nob;Nobiin;Nubian;Nilo-Saharan;31;21;N_Africa;Africa;Africa;ow;afr;no
+samo1303;smq;nmd;Nomad;East Strickland;East Strickland;142,25;-6,16667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+noma1263;not;nom;Nomatsiguenga;Pre-Andine Arawakan;Arawakan;-74,5;-11,67;Andean;S_America;South America;nw;nw;yes
+jiar1240;jya;jia;Northern Gyalrong;rGyalrong;Sino-Tibetan;102;31,5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+norw1259;nob;nor;Norwegian;Germanic;Indo-European;8;61;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+kenu1236;kzh;nbd;Nubian (Dongolese);Nubian;Nilo-Saharan;30,75;18,25;N_Africa;Africa;Africa;ow;afr;no
+nung1283;nut;nun;Nung (in Vietnam);Kam-Tai;Tai-Kadai;106,41667;21,91667;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+nung1290;nuy;nug;Nunggubuyu;Nunggubuyu;Australian;135,66667;-13,75;N_Australia;Australia;Australia;pac;pac;yes
+nupe1254;nup;nup;Nupe;Nupoid;Niger-Congo;5,42;9,17;African_Savannah;Africa;Africa;ow;afr;no
+noot1239;noo;nuu;Nuuchahnulth;Southern Wakashan;Wakashan;-126,66667;49,66667;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+nyig1240;nyh;nyn;Nyigina;Nyulnyulan;Australian;124,33333;-18;N_Australia;Australia;Australia;pac;pac;yes
+amas1236;nyi;nyi;Nyimang;Nyimang;Nilo-Saharan;29,33333;12,16667;African_Savannah;Africa;Africa;ow;afr;no
+obol1243;ann;obo;Obolo;Cross River;Niger-Congo;7,83333;4,58333;African_Savannah;Africa;Africa;ow;afr;no
+atzi1235;ocu;ocu;Ocuilteco;Otomian;Oto-Manguean;-99,66667;18,91667;Mesoamerica;C_America;North America;nw;nw;yes
+ogbr1243;ogu;obg;Ogbronuagum;Cross River;Niger-Congo;6,86667;4,75;African_Savannah;Africa;Africa;ow;afr;no
+oksa1245;opm;oks;Oksapmin;Oksapmin;Oksapmin;142,16667;-5,16667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+oloo1241;ong;olo;Olo;Wapei-Palei;Torricelli;142;-3,41667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+olut1240;plo;olu;Olutec;Mixe-Zoque;Mixe-Zoque;-95;17,95;Mesoamerica;C_America;North America;nw;nw;yes
+molm1235;aun;one;One;West Wapei;Torricelli;141,91667;-3,25;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+onei1249;one;ond;Oneida;Northern Iroquoian;Iroquoian;-75,66667;43;E_North_America;E_N_America;North America;nw;nw;yes
+onge1236;oon;ong;Onge;South Andamanese;South Andamanese;92,41667;10,75;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+toho1245;ood;ood;O'odham;Tepiman;Uto-Aztecan;-112;32;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+tega1236;ras;ori;Orig;Rashad;Niger-Congo;30,83333;12,16667;African_Savannah;Africa;Africa;ow;afr;no
+oroh1237;ora;;Oroha;Oceanic;Austronesian;161,51;-9,74;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+orok1265;oaa;ork;Orok;Tungusic;Altaic;143,5;49,5;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+east2652;hae;orh;Oromo (Harar);Eastern Cushitic;Afro-Asiatic;42;9;Greater_Abyssinia;Africa;Africa;ow;afr;no
+orya1242;ury;ory;Orya;Orya;Tor-Orya;139,83333;-2,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+osag1243;osa;osa;Osage;Siouan;Siouan;-94;37;E_North_America;E_N_America;North America;nw;nw;yes
+osse1243;oss;oss;Ossetic;Iranian;Indo-European;44;43;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+mezq1235;ote;otm;Otomí (Mezquital);Otomian;Oto-Manguean;-99,16667;20,16667;Mesoamerica;C_America;North America;nw;nw;yes
+paam1238;pma;pms;Paamese;Oceanic;Austronesian;168,25;-16,5;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+paco1243;pac;pac;Pacoh;Katuic;Austro-Asiatic;107,08333;16,41667;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+paez1247;pbb;pae;Páez;Páezan;Páezan;-76;2,66667;NE_South_America;S_America;South America;nw;nw;yes
+paip1241;ppi;;Paipai;Yuman;Hokan;-115,87;31,61;Mesoamerica;C_America;North America;nw;nw;yes
+dumb1241;duf;pta;Paita;Oceanic;Austronesian;166,5;-22,08333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+nort2954;pao;pno;Paiute (Northern);Numic;Uto-Aztecan;-118;42;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+paiw1248;pwn;pai;Paiwan;Paiwan;Austronesian;120,83333;22,5;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+pala1344;pau;pal;Palauan;Palauan;Austronesian;134,58333;7,5;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+pali1279;plu;plk;Palikur;Eastern Arawakan;Arawakan;-51;3;NE_South_America;S_America;South America;nw;nw;yes
+panj1256;pan;pan;Panjabi;Indic;Indo-European;74;31;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+pare1272;pab;prc;Parecis;Central Arawakan;Arawakan;-57;-14;NE_South_America;S_America;South America;nw;nw;yes
+pari1256;lkr;par;Päri;Nilotic;Nilo-Saharan;32,5;5;African_Savannah;Africa;Africa;ow;afr;no
+male1292;pqm;psm;Passamaquoddy-Maliseet;Algonquian;Algic;-67;45;E_North_America;E_N_America;North America;nw;nw;yes
+pate1247;ptp;pat;Patep;Oceanic;Austronesian;146,58333;-6,91667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+paum1247;pad;pau;Paumarí;Arauan;Arauan;-64;-6;NE_South_America;S_America;South America;nw;nw;yes
+pawa1255;pwa;paw;Pawaian;Pawaian;Teberan-Pawaian;145,08333;-7;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+pech1241;pay;pec;Pech;Paya;Chibchan;-85,5;15;Mesoamerica;C_America;North America;nw;nw;yes
+pele1245;ata;;Pele-Ata/Ata;Pele-Ata;Pele-Ata;151,05;-5,58;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+west2369;pes;prs;Persian;Iranian;Indo-European;54;32;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+phak1238;phk;;Phake;Kam-Tai;Tai-Kadai;95,81;27,82;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+piar1243;pid;pia;Piaroa;Piaroa;Sáliban;-67;5;NE_South_America;S_America;South America;nw;nw;yes
+pile1238;piv;pil;Pileni;Oceanic;Austronesian;166,21667;-10,21667;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+pima1248;pia;pba;Pima Bajo;Tepiman;Uto-Aztecan;-111;29;Mesoamerica;C_America;North America;nw;nw;yes
+pipi1250;ppl;pip;Pipil;Aztecan;Uto-Aztecan;-89,58333;13,83333;Mesoamerica;C_America;North America;nw;nw;yes
+pira1253;myp;prh;Pirahã;Mura;Mura;-62;-7;NE_South_America;S_America;South America;nw;nw;yes
+yine1238;pib;pir;Piro;Purus;Arawakan;-73,5;-11;NE_South_America;S_America;South America;nw;nw;yes
+pitj1243;pjt;pit;Pitjantjatjara;Pama-Nyungan;Australian;130;-26;S_Australia;Australia;Australia;pac;pac;yes
+pitt1247;pit;ppi;Pitta Pitta;Pama-Nyungan;Australian;140;-22,83333;S_Australia;Australia;Australia;pac;pac;yes
+pnar1238;pbv;;Pnar;Khasian;Austro-Asiatic;92,26;24,82;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+poli1260;pol;pol;Polish;Slavic;Indo-European;20;52;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+east2545;peb;pme;Pomo (Eastern);Pomoan;Hokan;-122,66667;39;California;W_N_America;North America;nw;nw;yes
+nort2966;pej;pmn;Pomo (Northern);Pomoan;Hokan;-123,5;39,33333;California;W_N_America;North America;nw;nw;yes
+sout2982;pom;pso;Pomo (Southeastern);Pomoan;Hokan;-122,5;39;California;W_N_America;North America;nw;nw;yes
+puin1248;pui;pui;Puinave;Puinave;Puinave;-68;4;NE_South_America;S_America;South America;nw;nw;yes
+wadj1254;wdj;pun;Pungupungu;Anson Bay;Australian;130,41667;-13,5;N_Australia;Australia;Australia;pac;pac;yes
+puqu1242;;puq;Puquina;Puquina;Puquina;-68,5;-16,5;Andean;S_America;South America;nw;nw;yes
+pure1242;tsz;pur;Purépecha;Tarascan;Tarascan;-101,66667;19,5;Mesoamerica;C_America;North America;nw;nw;yes
+puyu1239;pyu;;Puyuma;Puyuma;Austronesian;121;22,64;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+qawa1238;alc;qaw;Qawasqar;Alacalufan;Alacalufan;-75;-49;SE_South_America;S_America;South America;nw;nw;yes
+qian1264;cng;qia;Qiang;Qiangic;Sino-Tibetan;102,66667;32;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+huam1248;qvh;qhu;Quechua (Huallaga);Quechuan;Quechuan;-75,5;-9,5;Andean;S_America;South America;nw;nw;yes
+imba1240;qvi;qim;Quechua (Imbabura);Quechuan;Quechuan;-78;0,33333;Andean;S_America;South America;nw;nw;yes
+quil1240;qui;qui;Quileute;Chimakuan;Chimakuan;-124,25;47,91667;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+rajb1243;rjs;;Rajbanshi;Indic;Indo-European;88,45;26,38;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+rama1270;rma;ram;Rama;Rama;Chibchan;-83,75;11,75;Mesoamerica;C_America;North America;nw;nw;yes
+raoo1244;rao;rao;Rao;Annaberg;Lower Sepik-Ramu;144,5;-4,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+rapa1244;rap;rap;Rapanui;Oceanic;Austronesian;-109,36667;-27,11667;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+rawa1267;rwo;rwa;Rawa;Finisterre-Huon;Trans-New Guinea;146;-5,83333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+remb1249;rmb;rmb;Rembarnga;Rembarnga;Australian;134,58333;-12,83333;N_Australia;Australia;Australia;pac;pac;yes
+resi1247;rgr;res;Resígaro;Northern Arawakan;Arawakan;-71,5;-2,41667;NE_South_America;S_America;South America;nw;nw;yes
+rikb1245;rkb;rik;Rikbaktsa;Rikbaktsa;Macro-Ge;-57,5;-11,83333;NE_South_America;S_America;South America;nw;nw;yes
+roto1249;roo;rtk;Rotokas;West Bougainville;West Bougainville;155,16667;-6;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+ruka1240;dru;ruk;Rukai (Tanan);Rukai;Austronesian;120,83333;22,83333;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+rumu1243;klq;rum;Rumu;Turama-Kikorian;Turama-Kikorian;144,25;-7,16667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+russ1263;rus;rus;Russian;Slavic;Indo-European;38;56;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+sout2674;sma;scs;Saami (Central-South);Saami;Uralic;16,75;64,66667;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+skol1241;sms;;Saami (Skolt);Saami;Uralic;29,72;68,83;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+saba1268;sae;;Sabanê;Nambikuaran;Nambikuaran;-60,34;-12,99;NE_South_America;S_America;South America;nw;nw;yes
+nort1527;waa;shp;Sahaptin (Northern);Sahaptian;Penutian;-120;46,5;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+sahu1245;saj;sah;Sahu;North Halmaheran;West Papuan;127,5;1,16667;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+sali1298;slc;sba;Sáliba (in Colombia);Sáliba;Sáliban;-70;6;NE_South_America;S_America;South America;nw;nw;yes
+sali1253;sln;sal;Salinan;Salinan;Salinan;-121;36;California;W_N_America;North America;nw;nw;yes
+sand1273;sad;sdw;Sandawe;Sandawe;Khoisan;35;-5;S_Africa;Africa;Africa;ow;afr;no
+sang1328;sag;san;Sango;Ubangi;Niger-Congo;18;5;African_Savannah;Africa;Africa;ow;afr;no
+sant1410;sat;stl;Santali;Munda;Austro-Asiatic;87;24,5;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+sanu1240;xsu;snm;Sanuma;Yanomam;Yanomam;-64,66667;4,5;NE_South_America;S_America;South America;nw;nw;yes
+sapu1248;spu;sap;Sapuan;Bahnaric;Austro-Asiatic;106,83333;15,16667;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+camp1261;sro;srd;Sardinian;Romance;Indo-European;9;40;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+savo1255;svs;svs;Savosavo;Savosavo;Solomons East Papuan;159,8;-9,13333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+sawe1240;swr;;Saweru;Yawa;Yawa;136,3;-1,91;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+taro1264;trv;see;Seediq;Atayalic;Austronesian;121,41667;24,16667;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+mend1268;sim;;Seim/Mende (Papua New Guinea);Middle Sepik;Sepik;142,68;-3,67;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+seim1238;ssg;;Seimat;Oceanic;Austronesian;145,07;-1,53;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+onaa1245;ona;sel;Selknam;Chon Proper;Chon;-70;-53;SE_South_America;S_America;South America;nw;nw;yes
+selk1253;sel;skp;Selkup;Samoyedic;Uralic;82;65;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+seme1247;sza;sml;Semelai;Aslian;Austro-Asiatic;103;3;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+sici1249;sep;;Sénoufo (Sìcìté);Gur;Niger-Congo;-5,29;11,18;African_Savannah;Africa;Africa;ow;afr;no
+nucl1632;set;snt;Sentani;Sentani;Sentani;140,58333;-2,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+seri1257;sei;ser;Seri;Seri;Hokan;-112;29;Mesoamerica;C_America;North America;nw;nw;yes
+shab1252;sbf;shb;Shabo;Shabo;Nilo-Saharan;35,41667;7,58333;Greater_Abyssinia;Africa;Africa;ow;afr;no
+shas1239;sht;shs;Shasta;Shasta;Hokan;-122,66667;41,83333;California;W_N_America;North America;nw;nw;yes
+shat1244;shj;sht;Shatt;Daju;Nilo-Saharan;30;10,83333;African_Savannah;Africa;Africa;ow;afr;no
+ship1254;shp;shk;Shipibo-Konibo;Panoan;Panoan;-75;-7,5;NE_South_America;S_America;South America;nw;nw;yes
+shus1248;shs;shu;Shuswap;Interior Salish;Salishan;-120;52;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+siar1238;sjr;sir;Siar;Oceanic;Austronesian;152,91667;-4,66667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+sich1238;iii;;Sichuan Yi;Burmese-Lolo;Sino-Tibetan;102,12;28,19;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+dars1235;dau;sil;Sila;Daju;Nilo-Saharan;21,75;12,33333;African_Savannah;Africa;Africa;ow;afr;no
+sipa1247;qum;;Sipacapense;Mayan;Mayan;-91,7;15,23;Mesoamerica;C_America;North America;nw;nw;yes
+siro1249;ssd;sro;Siroi;Madang;Trans-New Guinea;146;-5,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+situ1238;jya;gyc;Situ;rGyalrong;Sino-Tibetan;102;31,5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+sius1254;sis;siu;Siuslaw;Siuslawan;Oregon Coast;-124;44;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+nucl1634;skv;sko;Skou;Western Skou;Skou;140,91667;-2,66667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+slav1253;scs;sla;Slave;Athapaskan;Na-Dene;-125;67;E_North_America;E_N_America;North America;nw;nw;yes
+sooo1256;teu;so;So;Kuliak;Nilo-Saharan;34,75;2,58333;S_Africa;Africa;Africa;ow;afr;no
+sooo1254;sss;;Sô;Katuic;Austro-Asiatic;105;16,91;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+soma1255;som;som;Somali;Eastern Cushitic;Afro-Asiatic;45;3;Greater_Abyssinia;Africa;Africa;ow;afr;no
+soni1259;snk;snn;Soninke;Western Mande;Niger-Congo;-10,5;15;African_Savannah;Africa;Africa;ow;afr;no
+mani1235;mnx;sgb;Sougb;East Bird's Head;East Bird's Head;134;-1,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+stan1288;spa;spa;Spanish;Romance;Indo-European;-4;40;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+squa1248;squ;squ;Squamish;Central Salish;Salishan;-123,16667;49,66667;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+koho1244;kpm;sre;Sre;Bahnaric;Austro-Asiatic;108;11,5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+stie1250;sti;sti;Stieng;Bahnaric;Austro-Asiatic;106,75;11,83333;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+suen1241;sue;sue;Suena;Binanderean;Trans-New Guinea;147,55;-7,75;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+suki1245;sui;suk;Suki;Suki;Gogodala-Suki;141,75;-8;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+sulk1246;sua;sul;Sulka;Sulka;Sulka;151,91667;-5,08333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+sund1252;sun;sun;Sundanese;Malayo-Sumbawan;Austronesian;107;-7;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+supy1237;spp;sup;Supyire;Gur;Niger-Congo;-5,58333;11,5;African_Savannah;Africa;Africa;ow;afr;no
+susu1250;sus;sus;Susu;Western Mande;Niger-Congo;-13;10;African_Savannah;Africa;Africa;ow;afr;no
+swah1253;swh;swa;Swahili;Bantoid;Niger-Congo;39;-6,5;S_Africa;Africa;Africa;ow;afr;no
+swed1254;swe;swe;Swedish;Germanic;Indo-European;15;60;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+east2440;mky;tab;Taba;South Halmahera - West New Guinea;Austronesian;127,5;0;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+tabl1243;tnm;tbl;Tabla;Sentani;Sentani;140,41667;-2,45;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+tada1238;dsq;;Tadaksahak;Songhay;Nilo-Saharan;2,33;16,68;African_Savannah;Africa;Africa;ow;afr;no
+taga1272;bgs;;Tagabawa;Greater Central Philippine;Austronesian;125,17;6,97;Oceania;S_&_SE_Asia;Papunesia;ow;eur;no
+taga1270;tgl;tag;Tagalog;Greater Central Philippine;Austronesian;121;15;Oceania;S_&_SE_Asia;Papunesia;ow;eur;no
+taia1239;gpn;tap;Taiap;Gapun;Gapun;144,5;-4,08333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+take1257;tkm;tkl;Takelma;Takelma;Takelma;-123;42,5;California;W_N_America;North America;nw;nw;yes
+tama1331;tma;tma;Tama;Taman;Nilo-Saharan;22;14,5;African_Savannah;Africa;Africa;ow;afr;no
+tana1290;tcb;tnc;Tanacross;Athapaskan;Na-Dene;-143,5;63,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+tapi1253;tpj;tpt;Tapiete;Tupi-Guaraní;Tupian;-61,66667;-19,75;SE_South_America;S_America;South America;nw;nw;yes
+cent2131;tar;tce;Tarahumara (Central);Tarahumaran;Uto-Aztecan;-107,5;27,5;Mesoamerica;C_America;North America;nw;nw;yes
+lowl1265;tac;twe;Tarahumara (Western);Tarahumaran;Uto-Aztecan;-108;27,5;Mesoamerica;C_America;North America;nw;nw;yes
+tari1256;tae;tar;Tariana;Northern Arawakan;Arawakan;-69,16667;1;NE_South_America;S_America;South America;nw;nw;yes
+tata1255;tat;tvo;Tatar;Turkic;Altaic;49,5;56;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+taul1251;tuh;tll;Taulil;Taulil;Baining-Taulil;152,08333;-4,41667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+taus1253;trr;tsr;Taushiro;Taushiro;Taushiro;-75,5;-3,25;NE_South_America;S_America;South America;nw;nw;yes
+tauy1241;tya;tau;Tauya;Madang;Trans-New Guinea;145,33333;-5,75;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+tawa1275;tbo;taw;Tawala;Oceanic;Austronesian;150,66667;-10,33333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+tbol1240;tbl;tbo;Tboli;Bilic;Austronesian;124,5;6,16667;Oceania;S_&_SE_Asia;Papunesia;ow;eur;no
+tehi1237;kps;tht;Tehit;West Bird's Head;West Papuan;132;-1,5;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+tele1256;tlf;tlf;Telefol;Ok;Trans-New Guinea;141,75;-5;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+telu1262;tel;tel;Telugu;South-Central Dravidian;Dravidian;79;16;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+nucl1339;teq;tmn;Temein;Temein;Nilo-Saharan;29,41667;11,91667;African_Savannah;Africa;Africa;ow;afr;no
+temi1246;tea;tmr;Temiar;Aslian;Austro-Asiatic;101,5;5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+tlac1235;tpt;tep;Tepehua (Tlachichilco);Totonacan;Totonacan;-98,25;20,58333;Mesoamerica;C_America;North America;nw;nw;yes
+sout2976;stp;tps;Tepehuan (Southeastern);Tepiman;Uto-Aztecan;-104,5;23;Mesoamerica;C_America;North America;nw;nw;yes
+teri1250;tfr;trb;Teribe;Talamanca;Chibchan;-82,66666667;9,333333333;Mesoamerica;C_America;North America;nw;nw;yes
+tern1247;tft;trt;Ternate;North Halmaheran;West Papuan;127,25;0,83333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+tetu1245;tet;ttn;Tetun;Central Malayo-Polynesian;Austronesian;126;-9;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+thai1261;tha;tha;Thai;Kam-Tai;Tai-Kadai;101;16;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+thul1246;tdh;thu;Thulung;Mahakiranti;Sino-Tibetan;86,5;27,41667;Indic;S_&_SE_Asia;Eurasia;ow;eur;no
+ticu1245;tca;tic;Ticuna;Ticuna;Ticuna;-70,5;-4;NE_South_America;S_America;South America;nw;nw;yes
+tigr1270;tig;tgr;Tigré;Semitic;Afro-Asiatic;38,5;16,5;Greater_Abyssinia;Africa;Africa;ow;afr;no
+tigr1271;tir;tig;Tigrinya;Semitic;Afro-Asiatic;38,5;14,5;Greater_Abyssinia;Africa;Africa;ow;afr;no
+apan1243;;;Tímbira (Apanjekra);Ge-Kaingang;Macro-Ge;-46,75;-5,94;NE_South_America;S_America;South America;nw;nw;yes
+timu1245;tjm;tmc;Timucua;Timucua;Timucua;-82,5;30,25;E_North_America;E_N_America;North America;nw;nw;yes
+tiri1258;cir;tin;Tinrin;Oceanic;Austronesian;165,75;-21,66667;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+trio1238;tri;tir;Tiriyo;Cariban;Cariban;-55,75;3,25;NE_South_America;S_America;South America;nw;nw;yes
+nort1550;twf;twn;Tiwa (Northern);Kiowa-Tanoan;Kiowa-Tanoan;-105,5;36,5;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+tiwi1244;tiw;tiw;Tiwi;Tiwian;Australian;131;-11,5;N_Australia;Australia;Australia;pac;pac;yes
+acat1239;tcf;tlp;Tlapanec;Subtiaba-Tlapanec;Oto-Manguean;-99;17,08333;Mesoamerica;C_America;North America;nw;nw;yes
+tlin1245;tli;tli;Tlingit;Tlingit;Na-Dene;-135;59;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+toba1269;tob;tob;Toba;Guaicuruan;Guaicuruan;-59;-26,5;SE_South_America;S_America;South America;nw;nw;yes
+toba1266;tti;tbt;Tobati;Oceanic;Austronesian;140,66667;-2,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+tobe1252;tlb;tlo;Tobelo;North Halmaheran;West Papuan;128,5;1,5;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+toke1240;tkl;tke;Tokelauan;Oceanic;Austronesian;-172;-9;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+toll1241;jic;tol;Tol;Tol;Tol;-87;14,66667;Mesoamerica;C_America;North America;nw;nw;yes
+kuan1248;ksd;tla;Tolai;Oceanic;Austronesian;152,08333;-4,25;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+tomm1242;dto;tms;Tommo So;Dogon;Niger-Congo;-3;15;African_Savannah;Africa;Africa;ow;afr;no
+tong1325;ton;tng;Tongan;Oceanic;Austronesian;-175,1666667;-21,16666667;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+tonk1249;tqw;ton;Tonkawa;Tonkawa;Tonkawa;-96,75;30,25;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+toab1237;mlu;toq;Toqabaqita;Oceanic;Austronesian;160,5833333;-8,416666667;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+yecu1235;tlc;tot;Totonac (Misantla);Totonacan;Totonacan;-96,91667;19,91667;Mesoamerica;C_America;North America;nw;nw;yes
+trum1247;tpy;tru;Trumai;Trumai;Trumai;-53,58333;-11,91667;NE_South_America;S_America;South America;nw;nw;yes
+colo1256;cof;tsf;Tsafiki;Barbacoan;Barbacoan;-79,33333;-1;Andean;S_America;South America;nw;nw;yes
+nucl1649;tsi;tsi;Tsimshian (Coast);Tsimshianic;Penutian;-129;52,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+tsou1248;tsu;tso;Tsou;Tsou;Austronesian;120,75;23,5;Southeast_Asia;S_&_SE_Asia;Papunesia;ow;eur;no
+tebu1238;dzg;tbu;Tubu;Western Saharan;Nilo-Saharan;15;16;African_Savannah;Africa;Africa;ow;afr;no
+tuca1252;tuo;tuc;Tucano;Tucanoan;Tucanoan;-69,16667;0,5;NE_South_America;S_America;South America;nw;nw;yes
+nort2732;tji;;Tujia (Northern);Tujia;Sino-Tibetan;109,76;29,3;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+tuka1247;bhq;tuk;Tukang Besi;Celebic;Austronesian;123,5;-5,5;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+tune1241;baz;tnn;Tunen;Bantoid;Niger-Congo;10,66667;4,75;African_Savannah;Africa;Africa;ow;afr;no
+tung1290;lcm;tnk;Tungak;Oceanic;Austronesian;150,25;-2,55;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+tuni1252;tun;tun;Tunica;Tunica;Tunica;-91;32,66667;E_North_America;E_N_America;North America;nw;nw;yes
+turk1308;tuv;tna;Turkana;Nilotic;Nilo-Saharan;35,5;3;S_Africa;Africa;Africa;ow;afr;no
+nucl1301;tur;tur;Turkish;Turkic;Altaic;35;39;Greater_Mesopotamia;W_&_SW_Eurasia;Eurasia;ow;eur;no
+tuvi1240;tyv;tuv;Tuvan;Turkic;Altaic;95;52;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+tuyu1244;tue;tuy;Tuyuca;Tucanoan;Tucanoan;-70,08333333;0,5;NE_South_America;S_America;South America;nw;nw;yes
+tzel1254;tzh;;Tzeltal (Petalcingo);Mayan;Mayan;-92,28;16,64;Mesoamerica;C_America;North America;nw;nw;yes
+cakc1244;tzj;tzu;Tzutujil;Mayan;Mayan;-91,33333;14,66667;Mesoamerica;C_America;North America;nw;nw;yes
+udih1248;ude;udh;Udihe;Tungusic;Altaic;136,25;47,66667;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+udmu1245;udm;udm;Udmurt;Permic;Uralic;52,5;57,5;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+uduk1239;udu;;Uduk;Koman;Koman;34,23;9,16;Greater_Abyssinia;Africa;Africa;ow;afr;no
+ulit1238;uli;uli;Ulithian;Oceanic;Austronesian;139,5833333;9,916666667;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+ulwa1239;ulw;;Sumu;Misumalpan;Misumalpan;-83,58;12,93;Mesoamerica;C_America;North America;nw;nw;yes
+unaa1239;mtg;una;Una;Mek;Trans-New Guinea;140;-4,66667;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ngar1284;ung;ung;Ungarinjin;Wororan;Australian;126;-16,33333;N_Australia;Australia;Australia;pac;pac;yes
+urad1239;urf;uhi;Uradhi;Pama-Nyungan;Australian;142,41667;-11,91667;N_Australia;Australia;Australia;pac;pac;yes
+urak1238;urk;url;Urak Lawoi';Malayo-Sumbawan;Austronesian;98,33333;8;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+urar1246;ura;urn;Urarina;Urarina;Urarina;-75,5;-4,5;NE_South_America;S_America;South America;nw;nw;yes
+urim1252;uri;uri;Urim;Urim;Torricelli;142,66667;-3,58333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+uruu1244;ure;uru;Uru;Uru-Chipaya;Uru-Chipaya;-69;-16,75;Andean;S_America;South America;nw;nw;yes
+urub1250;urb;urk;Urubú-Kaapor;Tupi-Guaraní;Tupian;-46,5;-2,33333;NE_South_America;S_America;South America;nw;nw;yes
+usan1239;wnu;usa;Usan;Madang;Trans-New Guinea;145,16667;-4,83333;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+utes1238;ute;ute;Ute;Numic;Uto-Aztecan;-109;39;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+uzbe1247;uzn;uzb;Uzbek;Turkic;Altaic;66;39;Inner_Asia;NC_Asia;Eurasia;ow;eur;no
+vaii1241;vai;vai;Vai;Western Mande;Niger-Congo;-11,25;6,91667;African_Savannah;Africa;Africa;ow;afr;no
+viet1252;vie;vie;Vietnamese;Viet-Muong;Austro-Asiatic;106,5;10,5;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+wage1238;waq;wag;Wagiman;Wagiman;Australian;131,25;-14;N_Australia;Australia;Australia;pac;pac;yes
+valm1241;van;wal;Walman;Wapei-Palei;Torricelli;142,5;-3,21667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+wamb1258;wmb;wam;Wambaya;West Barkly;Australian;135,75;-18,66667;N_Australia;Australia;Australia;pac;pac;yes
+wamb1259;wms;wbn;Wambon;Awju-Dumut;Trans-New Guinea;140,41667;-5,5;Interior_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ngur1261;nbx;wan;Wangkumara;Pama-Nyungan;Australian;143;-27,33333;S_Australia;Australia;Australia;pac;pac;yes
+waor1240;auc;wao;Waorani;Waorani;Waorani;-76,5;-1;NE_South_America;S_America;South America;nw;nw;yes
+wapp1239;wao;wap;Wappo;Wappo;Wappo-Yukian;-122,5;38,5;California;W_N_America;North America;nw;nw;yes
+wara1303;wba;wra;Warao;Warao;Warao;-61,66667;9,33333;NE_South_America;S_America;South America;nw;nw;yes
+wara1290;wrz;wry;Waray (in Australia);Waray;Australian;131,25;-13,16667;N_Australia;Australia;Australia;pac;pac;yes
+ward1246;wrr;wrd;Wardaman;Yangmanic;Australian;131;-15,5;N_Australia;Australia;Australia;pac;pac;yes
+guar1293;gae;wrk;Warekena;Northern Arawakan;Arawakan;-67,5;1,5;NE_South_America;S_America;South America;nw;nw;yes
+ware1253;wsa;wrm;Warembori;South Halmahera - West New Guinea;Austronesian;137,58333;-1,66667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+wari1268;pav;war;Wari';Chapacura-Wanham;Chapacura-Wanham;-65;-11,33333;NE_South_America;S_America;South America;nw;nw;yes
+wand1263;wnd;wrn;Warndarang;Maran;Australian;135,58333;-14,41667;N_Australia;Australia;Australia;pac;pac;yes
+warr1258;wwr;wrw;Warrwa;Nyulnyulan;Australian;123,5;-17,5;N_Australia;Australia;Australia;pac;pac;yes
+wash1253;was;was;Washo;Washo;Washo;-120;39,25;Basin_and_Plains;W_N_America;North America;nw;nw;yes
+wata1253;wax;wtm;Watam;Lower Ramu;Lower Sepik-Ramu;144,5;-3,91667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+waur1244;wau;wur;Waurá;Central Arawakan;Arawakan;-53;-13;NE_South_America;S_America;South America;nw;nw;yes
+waya1270;oym;way;Wayampi;Tupi-Guaraní;Tupian;-52;1;NE_South_America;S_America;South America;nw;nw;yes
+wels1247;cym;wel;Welsh;Celtic;Indo-European;-3;52;Europe;W_&_SW_Eurasia;Eurasia;ow;eur;no
+wemb1241;xww;wem;Wembawemba;Pama-Nyungan;Australian;144;-35,33333;S_Australia;Australia;Australia;pac;pac;yes
+weri1253;wer;wer;Weri;Goilalan;Trans-New Guinea;146,91667;-7,75;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+wich1264;mzh;wch;Wichí;Matacoan;Matacoan;-62,58333;-22,5;SE_South_America;S_America;South America;nw;nw;yes
+wich1260;wic;wic;Wichita;Caddoan;Caddoan;-97,33333;33,33333;Basin_and_Plains;E_N_America;North America;nw;nw;yes
+wint1259;wit;win;Wintu;Wintuan;Penutian;-122,5;41;California;W_N_America;North America;nw;nw;yes
+wiyo1248;wiy;wiy;Wiyot;Wiyot;Algic;-124,16667;40,83333;California;W_N_America;North America;nw;nw;yes
+kama1365;woi;woi;Woisika;Greater Alor;Timor-Alor-Pantar;124,83333;-8,25;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+woli1241;wlo;wlo;Wolio;Celebic;Austronesian;122,75;-5,5;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+womo1238;wmx;wom;Womo;Serra Hills;Skou;141,83333;-2,91667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+yagu1244;yad;yag;Yagua;Peba-Yaguan;Peba-Yaguan;-72;-3,5;NE_South_America;S_America;South America;nw;nw;yes
+yama1264;yag;yah;Yahgan;Yámana;Yámana;-68;-55;SE_South_America;S_America;South America;nw;nw;yes
+yako1252;yky;ykm;Yakoma;Ubangi;Niger-Congo;18,41667;4,41667;African_Savannah;Africa;Africa;ow;afr;no
+yalu1240;yal;;Yalunka;Western Mande;Niger-Congo;-11,28;9,97;African_Savannah;Africa;Africa;ow;afr;no
+yami1256;yaa;yam;Yaminahua;Panoan;Panoan;-73;-8;NE_South_America;S_America;South America;nw;nw;yes
+yana1271;ynn;yan;Yana;Yana;Hokan;-122;40,5;Basin_and_Plains;W_N_America;North America;nw;nw;yes
+yaou1238;yre;;Yaouré;Eastern Mande;Niger-Congo;-5,58;6,95;African_Savannah;Africa;Africa;ow;afr;no
+yape1248;yap;yap;Yapese;Yapese;Austronesian;138,16667;9,58333;Oceania;NG_&_Oceania;Papunesia;pac;pac;yes
+yaqa1246;jaq;yqy;Yaqay;Marind Proper;Marind;139,25;-6,58333;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+yaqu1251;yaq;yaq;Yaqui;Cahita;Uto-Aztecan;-110,25;27,5;Mesoamerica;C_America;North America;nw;nw;yes
+yare1248;yrb;yar;Yareba;Yareban;Yareban;148,5;-9,5;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+pume1238;yae;yrr;Yaruro;Yaruro;Yaruro;-68;7;NE_South_America;S_America;South America;nw;nw;yes
+yavi1244;yvt;;Yavitero;Northern Arawakan;Arawakan;-67,43;9,82;NE_South_America;S_America;North America;nw;nw;yes
+nucl1454;yva;yaw;Yawa;Yawa;Yawa;136,25;-1,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+yoku1256;yok;ywl;Yawelmani;Yokuts;Penutian;-119;35,41667;California;W_N_America;North America;nw;nw;yes
+yeii1239;jei;yei;Yei;Morehead and Upper Maro Rivers;Morehead and Upper Maro Rivers;140,91667;-7,91667;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+yele1255;yle;yel;Yelî Dnye;Yele;Yele;154,16667;-11,36667;S_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+yess1239;yss;yes;Yessan-Mayo;Tama Sepik;Sepik;142,58333;-4,16667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+yidi1250;yii;yid;Yidiny;Pama-Nyungan;Australian;145,75;-17;N_Australia;Australia;Australia;pac;pac;yes
+yima1243;yee;yim;Yimas;Lower Sepik;Lower Sepik-Ramu;143,55;-4,66667;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+ying1247;yia;yng;Yingkarta;Pama-Nyungan;Australian;114,8333333;-25,16666667;S_Australia;Australia;Australia;pac;pac;yes
+yoke1238;yki;;Yoke;South Halmahera - West New Guinea;Austronesian;138;-1,75;N_Coast_New_Guinea;NG_&_Oceania;Papunesia;pac;pac;yes
+yoru1245;yor;yor;Yoruba;Defoid;Niger-Congo;4,33333;8;African_Savannah;Africa;Africa;ow;afr;no
+yuca1254;yua;yct;Yucatec;Mayan;Mayan;-89;20;Mesoamerica;C_America;North America;nw;nw;yes
+yuch1247;yuc;yuc;Yuchi;Yuchi;Yuchi;-86,75;35,75;E_North_America;E_N_America;North America;nw;nw;yes
+sout2750;yux;yko;Yukaghir (Kolyma);Yukaghir;Yukaghir;150,83333;65,75;N_Coast_Asia;NC_Asia;Eurasia;ow;eur;yes
+yuki1243;yuk;yki;Yuki;Yukian;Wappo-Yukian;-123,5;39,66667;California;W_N_America;North America;nw;nw;yes
+gang1267;gcd;yuk;Yukulta;Tangkic;Australian;138,83333;-17,33333;N_Australia;Australia;Australia;pac;pac;yes
+cent2127;esu;ypk;Yup'ik (Central);Eskimo;Eskimo-Aleut;-160;59,5;Alaska-Oregon;W_N_America;North America;nw;nw;yes
+yura1255;yuz;yrc;Yuracare;Yuracare;Yuracare;-65,25;-16,58333;NE_South_America;S_America;South America;nw;nw;yes
+yuro1248;yur;yur;Yurok;Yurok;Algic;-124;41,33333;California;W_N_America;North America;nw;nw;yes
+zand1248;zne;zan;Zande;Ubangi;Niger-Congo;26;4;S_Africa;Africa;Africa;ow;afr;no
+zapa1253;zro;zpr;Zaparo;Zaparoan;Zaparoan;-76,33333;-2;NE_South_America;S_America;South America;nw;nw;yes
+isth1244;zai;zai;Zapotec (Isthmus);Zapotecan;Oto-Manguean;-95;16,41667;Mesoamerica;C_America;North America;nw;nw;yes
+sant1451;zpi;zaq;Zapotec (Quiegolani);Zapotecan;Oto-Manguean;-96,08333;16,16667;Mesoamerica;C_America;North America;nw;nw;yes
+sier1250;zaa;;Zapotec (Sierra de Juarez)/Zapotec (Macuiltianguis);Zapotecan;Oto-Manguean;-96,62;17,42;Mesoamerica;C_America;North America;nw;nw;yes
+tlac1240;zpk;;Zapotec (Tlacolulita);Zapotecan;Oto-Manguean;-95,74;16,3;Mesoamerica;C_America;North America;nw;nw;yes
+yala1267;zpu;;Zapotec (Yalálag);Zapotecan;Oto-Manguean;-96,22;17,21;Mesoamerica;C_America;North America;nw;nw;yes
+yatz1235;zav;zya;Zapotec (Yatzachi);Zapotecan;Oto-Manguean;-96,2;17,2;Mesoamerica;C_America;North America;nw;nw;yes
+zoog1238;zpq;zzo;Zapotec (Zoogocho);Zapotecan;Oto-Manguean;-96,25;17,25;Mesoamerica;C_America;North America;nw;nw;yes
+guib1245;zgb;zhn;Zhuang (Northern);Kam-Tai;Tai-Kadai;108;24;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;no
+chim1300;zoh;zch;Zoque (Chimalapa);Mixe-Zoque;Mixe-Zoque;-94,75;16,75;Mesoamerica;C_America;North America;nw;nw;yes
+copa1236;zoc;zqc;Zoque (Copainalá);Mixe-Zoque;Mixe-Zoque;-93,25;17;Mesoamerica;C_America;North America;nw;nw;yes
+aoua1234;aou;;Zoulei;Kadai;Tai-Kadai;105,85;26,8;Southeast_Asia;S_&_SE_Asia;Eurasia;ow;eur;yes
+zulu1248;zul;zul;Zulu;Bantoid;Niger-Congo;30;-30;S_Africa;Africa;Africa;ow;afr;no
+zuni1245;zun;zun;Zuni;Zuni;Zuni;-108,83333;35,08333;Basin_and_Plains;E_N_America;North America;nw;nw;yes

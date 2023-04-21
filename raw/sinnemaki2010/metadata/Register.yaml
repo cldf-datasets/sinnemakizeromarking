@@ -1,0 +1,217 @@
+# --- Glottocode ---
+glottocode:
+    Description: >
+        Language identifier in the Glottolog verison 4.7 (Hammarström et al. 2022).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+
+# --- ISO693.3 ---
+iso_code:
+    Description: >
+        Language identifier in the Ethnologue (Simons & Fennig 2018). Contains a few non-unique identifiers.
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 886
+    N_Languages: 895
+    N_Missing: 9
+
+# --- WALS code ---
+wals_code:
+    Description: >
+        Language identifier in the WALS (Dryer & Haspelmath 2013). Contains a few non-unique identifiers.
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 834
+    N_Languages: 895
+    N_Missing: 61
+
+# --- Language ---
+language:
+    Description: >
+        Language name as it appears in the World Atlas of Language Structures (WALS; Dryer & Haspelmath 2013).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 895
+
+# --- Genus ---
+genus:
+    Description: >
+        Genus-level genealogical classification in the WALS (Dryer & Haspelmath 2013).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 469
+
+# --- Family ---
+family:
+    Description: >
+        Highest level of genealogical classification in the WALS (Dryer & Haspelmath 2013).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 191
+
+# --- Longitude ---
+longitude:
+    Description: >
+        Longitude, primarily from the WALS (Dryer & Haspelmath 2013), but if unavailable there, then from the Glottolog version 3.2 (Hammarström et al. 2018).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: ratio
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+
+# --- Latitude ---
+latitude:
+    Description: >
+        Latitude, primarily from the WALS (Dryer & Haspelmath 2013), but if unavailable there, then from the Glottolog (Hammarström et al. 2018).
+    SetUp: single entry per language 
+    VariableType: register
+    DataType: ratio
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+
+# --- Area ---
+area:
+    Description: >
+        The earth divided into 24 geographical areas as in the AUTOTYP (Bickel et al. 2017).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_levels: 24
+    Levels: |
+        'S_Africa': > South Africa
+        'Greater_Abyssinia': > Greater Abyssinia
+        'African_Savannah': > African Savannah
+        'N_Africa': > North Africa
+        'Europe': > Europe
+        'Inner_Asia': > Inner Asia
+        'Greater_Mesopotamia': > Greater Mesopotamia
+        'Indic': > Indic
+        'Southeast_Asia': > Southeast Asia
+        'N_Coast_Asia': > North Coast Asia
+        'Oceania': > Oceania
+        'N_Australia': > North Australia
+        'S_Australia': > South Australia
+        'N_Coast_New_Guinea': > North Coast New Guinea
+        'Interior_New_Guinea': > Interior New Guinea
+        'S_New_Guinea': > South New Guinea
+        'Alaska-Oregon': > Alaska-Oregon
+        'Basin_and_Plains': > Basin and Plains
+        'E_North_America': > Eastern North America
+        'California': > California
+        'Mesoamerica': > Mesoamerica
+        'Andean': > Andean
+        'NE_South_America': > Northeast South America
+        'SE_South_America': > Southeast South America
+
+# --- Continent ----
+continent:
+    Description: >
+        The earth divided into ten continents or subcontinents as in the AUTOTYP (Bickel et al. 2017).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 10
+    Levels: |
+        'Africa': > Africa
+        'NG_&_Oceania': > New Guinea and Oceania
+        'S_America': > South America
+        'W_&_SW_Eurasia': > West and Southwest Eurasia
+        'S_&_SE_Asia': > South and Southeast Asia
+        'E_N_America': > Eastern North America
+        'NC_Asia': > North-Central Asia
+        'Australia': > Australia
+        'W_N_America': > Western North America
+        'C_America': > Central America
+
+# --- Macroarea ---
+macroarea:
+    Description: >
+        Geographical breakdown of the Earth in six continent-size areas, as in the WALS (Dryer & Haspelmath 2013).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 6
+    Levels: |
+        Africa
+        Australia
+        Eurasia
+        North America
+        Papunesia
+        South America
+
+# --- Macrocontinent - three areas ---
+macrocontinent.3:
+    Description: >
+        Geographical breakdown of the earth in three macrocontinents as in Nichols (1992).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 3
+    Levels: |
+        'Old World': > Africa and Eurasia up until the Wallace line in insular Southeast Asia
+        'Pacific': > Australia, New Guinea, the Pacific Islands, and insular Southeast Asia until the Wallace line
+        'New World': > The Americas
+
+# --- Macrocontinent - 4 areas ---
+macrocontinent.4:
+    Description: >
+        Geographical breakdown of the earth in four macrocontinents as in Nichols (1992), but additionally breaking down the Old World into Africa and Eurasia.
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 4
+    Levels: |
+        'Africa': > Africa
+        'Eurasia': > Eurasia up until the Wallace line in insular Southeast Asia
+        'Pacific': > Australia, New Guinea, the Pacific Islands, and insular Southeast Asia until the Wallace line
+        'New World': > The Americas
+
+# --- Circum Pacific ---
+circumpacific:
+    Description: >
+        Circum Pacific as defined in Bickel & Nichols (2006).
+    SetUp: single entry per language
+    VariableType: register
+    DataType: categorical
+    N_Entries: 895
+    N_Languages: 895
+    N_Missing: 0
+    N_Levels: 2
+    Levels: |
+        'yes': > Language community located within the Circum Pacific area
+        'no': > Language community located outside the Circum Pacific area
