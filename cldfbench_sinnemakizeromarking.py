@@ -1,7 +1,9 @@
 import collections
 import io
 import pathlib
+import re
 import sys
+import unicodedata
 from urllib import request
 import zipfile
 
@@ -104,6 +106,128 @@ def language_id(glottocode, name):
         return glottocode
 
 
+def prepare_references_string(ref):
+    ref = re.sub(
+        r'\((?:quoted )?in ([^)]+)\)',
+        r'\1',
+        ref,
+        flags=re.IGNORECASE)
+    ref = ref.strip()
+    return ref
+
+
+def iter_references(references_string):
+    rest = prepare_references_string(references_string)
+    while rest:
+        reference = {}
+        # skip 'Personal knowledge'
+        personal_knowledge_match = re.match('\s*Personal knowledge,?\s*', rest)
+        if personal_knowledge_match:
+            rest = rest[len(personal_knowledge_match.group()):]
+            continue
+
+        author_match = re.match('[^0-9(]+', rest)
+        if author_match is None:
+            raise ValueError("Expected author: '{}' (in '{}')".format(
+                rest, references_string))
+        reference['author'] = author_match.group().strip(', ')
+        rest = rest[len(author_match.group()):]
+
+        # skip (p.c.)
+        pc_match = re.match(r'\(p.c.\),?\s*', rest)
+        if pc_match:
+            rest = rest[len(pc_match.group()):]
+            continue
+
+        # XXX: this can prob be one regex
+        year_match = (
+            re.match(r'\((no year|to appear)\)', rest)
+            # for Hoel et al 1994-2003
+            or re.match(r'(1994)-2003', rest)
+            # for Sapir 1990 [1909]
+            or re.match(r'(1990) \[1909\]', rest)
+            # for Launey 2001-2
+            or re.match(r'(2001-2)', rest)
+            or re.match(r'(\d+[a-z]*)', rest))
+        if year_match is None:
+            raise ValueError("Expected year: '{}' (in '{}')".format(
+                rest, references_string))
+        reference['year'] = year_match.group(1).strip()
+        rest = rest[len(year_match.group()):].strip()
+
+        pages_match = re.match(
+            r': ?(?:(?:[0-9\-]+|passim|iv|vi),?\s*)*',
+            rest)
+        if pages_match is not None:
+            reference['pages'] = pages_match.group().strip(':, ')
+            rest = rest[len(pages_match.group()):].strip()
+        yield reference
+
+
+VAN_PARTS = ['van', 'de', 'der']
+
+
+def first_author_no_van(reference):
+    names = [
+        name
+        for name in reference['author'].split()
+        if name.lower() not in VAN_PARTS]
+    return names[0]
+
+
+def first_author_with_van(reference):
+    name_parts = []
+    for name in reference['author'].split():
+        if name.lower() in VAN_PARTS:
+            name_parts.append(name)
+        else:
+            name_parts.append(name)
+            break
+    return ''.join(name_parts)
+
+
+def unaccent(s):
+    return ''.join(
+        c for c in unicodedata.normalize('NFKD', s)
+        if c.isascii())
+
+
+def prepare_author(author):
+    author = author.replace('Lindström', 'Lindstroem')
+    author = author.replace('Schönig', 'Schoenig')
+    author = author.replace('Facundes', 'SilvaFacundes')
+    author = unaccent(author.strip(', '))
+    return author
+
+
+def add_pages(bibkey, reference):
+    if 'pages' in reference:
+        return '{}[{}]'.format(bibkey, reference['pages'])
+    else:
+        return bibkey
+
+
+def get_bibkey(reference, sources, lang_id):
+    bibkey = None
+
+    guess = '{}{}'.format(
+        prepare_author(first_author_no_van(reference)),
+        reference['year'])
+    if guess in sources:
+        return add_pages(guess, reference)
+
+    guess = '{}{}'.format(
+        prepare_author(first_author_with_van(reference)),
+        reference['year'])
+    if guess in sources:
+        return add_pages(guess, reference)
+
+    print(
+        'WARNING: {}: cannot match reference:'.format(lang_id), reference,
+        file=sys.stderr)
+    return None
+
+
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "sinnemakizeromarking"
@@ -172,16 +296,34 @@ class Dataset(BaseDataset):
 
         # create cldf data
 
+        sources = parse_bibtex(bibtex_strings)
+        language_references = {
+            row['glottocode']:
+            (
+                row['Sources'],
+                [
+                    get_bibkey(
+                        reference,
+                        sources,
+                        language_id(row['glottocode'], row['language']))
+                    for reference in iter_references(row['Sources'])
+                ],
+            )
+            for row in value_data}
+
         language_table = [
             {new_name: lang[old_name]
              for new_name, old_name in LANGUAGE_COL_MAP}
             for lang in language_data]
         for lang in language_table:
+            source_prose, bibkeys = language_references[lang['Glottocode']]
+            lang['Source_prose'] = source_prose
+            lang['Source'] = list(filter(None, bibkeys))
             lang['ID'] = language_id(lang['Glottocode'], lang['Name'])
-            lang['Latitude'] = float(
-                lang['Latitude'].replace(',', '.') or 0)
-            lang['Longitude'] = float(
-                lang['Longitude'].replace(',', '.') or 0)
+            if lang['Latitude']:
+                lang['Latitude'] = float(lang['Latitude'].replace(',', '.'))
+            if lang['Longitude']:
+                lang['Longitude'] = float(lang['Longitude'].replace(',', '.'))
 
         parameter_table = [
             {
@@ -201,9 +343,6 @@ class Dataset(BaseDataset):
             for param_id, param in ling_variables.items()
             for value, description in param.get('Levels', {}).items()]
 
-        sources = parse_bibtex(bibtex_strings)
-
-        # TODO: source column
         value_table = [
             {
                 'ID': '{}-{}'.format(
@@ -223,7 +362,14 @@ class Dataset(BaseDataset):
         args.writer.cldf.add_component(
             'LanguageTable',
             'WALS_code', 'Genus', 'Family', 'Area', 'Continent',
-            'Macrocontinent', 'Macrocontinent_SplitOldWorld' 'Circumpacific')
+            'Macrocontinent', 'Macrocontinent_SplitOldWorld', 'Circumpacific',
+            {
+                'datatype': 'string',
+                'propertyUrl': 'http://cldf.clld.org/v1.0/terms.rdf#source',
+                'separator': ';',
+                'name': 'Source',
+            },
+            'Source_prose')
         args.writer.cldf.add_component('ParameterTable')
         args.writer.cldf.add_component('CodeTable')
 
