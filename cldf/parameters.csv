@@ -1,0 +1,8 @@
+ID,Name,Description,ColumnSpec
+wordorderbinned5,WordOrder.binned5,"Dominant word order of subject, object and verb in a transitive clause, following definitions in Sinnemäki 2010.",
+wordorderso,WordOrder.SO,"Dominant word order of subject and object in a transitive clause, following definitions in Sinnemäki 2010.",
+wordorderbinned7,WordOrder.binned7,"Dominant word order of subject, object and verb in a transitive clause, following definitions in Dryer 2013.",
+wordordersfirst,WordOrder.S_first,"Dominant word order of subject compared to object and verb in a transitive clause,  following definitions in Sinnemäki 2010.",
+morphmarking,MorphMarking,"Is there any overt morphological marking of lexical arguments (subject or object), including dependent marking (~case marking), head marking (~agreement), or some other consistent type of morphological marking? Definitions are as in Sinnemäki 2010.",
+headmarking,HeadMarking,"Is there any head marking of lexical arguments, mostly covering person, number, and gender agreement of a lexical subject and/or object on the predicate. Definitions are as in Sinnemäki 2010.",
+dependentmarking,DependentMarking,"Is there any dependent marking of lexical arguments, mostly covering case marking of the lexical subject and/or object. Definitions are as in Sinnemäki 2010.",

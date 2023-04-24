@@ -1,0 +1,23 @@
+ID,Parameter_ID,Name,Description
+wordorderbinned5-v1,wordorderbinned5,V1,verb-initial order
+wordorderbinned5-v3,wordorderbinned5,V3,verb-final order
+wordorderbinned5-svo,wordorderbinned5,SVO,subject-verb-object order
+wordorderbinned5-ovs,wordorderbinned5,OVS,object-verb-subject order
+wordorderbinned5-nd,wordorderbinned5,nd,no dominant order
+wordorderso-yes,wordorderso,yes,dominant subject-object order
+wordorderso-no,wordorderso,no,either dominant object-subject order or no dominant order
+wordorderbinned7-svo,wordorderbinned7,SVO,dominant subject-verb-object order
+wordorderbinned7-sov,wordorderbinned7,SOV,dominant subject-object-verb order
+wordorderbinned7-vso,wordorderbinned7,VSO,dominant verb-subject-object order
+wordorderbinned7-vos,wordorderbinned7,VOS,dominant verb-object-subject order
+wordorderbinned7-osv,wordorderbinned7,OSV,dominant object-subject-verb order
+wordorderbinned7-ovs,wordorderbinned7,OVS,dominant object-verb-subject order
+wordorderbinned7-nodom,wordorderbinned7,no dom.,no dominant word order
+wordordersfirst-yes,wordordersfirst,yes,dominant word order is subject-first (including SVO and SOV orders)
+wordordersfirst-no,wordordersfirst,no,dominant wordo order order is not subject-first (including verb-initial and object-initial orders)
+morphmarking-yes,morphmarking,yes,there is overt morphological marking of lexical arguments (subject and/or object)
+morphmarking-no,morphmarking,no,there is no overt marking of lexical arguments (subject and object)
+headmarking-yes,headmarking,yes,there is head marking of lexical arguments (subject and/or object)
+headmarking-no,headmarking,no,there is no head marking of lexical arguments (subject and object)
+dependentmarking-yes,dependentmarking,yes,there is dependent marking of lexical arguments (subject and/or object)
+dependentmarking-no,dependentmarking,no,there is no dependent marking of lexical arguments (subject and object)
