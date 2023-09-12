@@ -1,8 +1,8 @@
 ID,Name,Description,ColumnSpec
-wordorderbinned5,Order of subject, object, verb (with five types),"Dominant word order of subject, object and verb in a transitive clause (following definitions in Sinnemäki 2010).",
-wordorderso,Order of subject and object,"Dominant word order of subject and object in a transitive clause (following definitions in Sinnemäki 2010).",
-wordorderbinned7,Order of subject, object, verb (with seven types),"Dominant word order of subject, object and verb in a transitive clause (following definitions in Dryer 2013).",
-wordordersfirst,Order of subject with respect to object and verb,"Dominant word order of subject compared to object and verb in a transitive clause (following definitions in Sinnemäki 2010). Subject-first includes SVO and SOV.",
+wordorderbinned5,"Order of subject, object, verb (with five types)","Dominant word order of subject, object and verb in a transitive clause (following definitions in Sinnemäki 2010).",
+wordorderso,Order of subject and object,Dominant word order of subject and object in a transitive clause (following definitions in Sinnemäki 2010).,
+wordorderbinned7,"Order of subject, object, verb (with seven types)","Dominant word order of subject, object and verb in a transitive clause (following definitions in Dryer 2013).",
+wordordersfirst,Order of subject with respect to object and verb,Dominant word order of subject compared to object and verb in a transitive clause (following definitions in Sinnemäki 2010). Subject-first includes SVO and SOV.,
 morphmarking,Morphological argument marking,"Head and/or dependent marking of lexical subject and/or object arguments, or some other consistent type of morphological marking.(Definitions are as in Sinnemäki 2010.)",
 headmarking,Head marking,"Head marking (mostly covering person, number, and gender agreement) of lexical subject and/or object arguments, on the predicate. Definitions are as in Sinnemäki (2010).",
-dependentmarking,Dependent marking,"Dependent marking (mostly covering case marking) of lexical subject and/or object arguments. Definitions are as in Sinnemäki (2010).",
+dependentmarking,Dependent marking,Dependent marking (mostly covering case marking) of lexical subject and/or object arguments. Definitions are as in Sinnemäki (2010).,
