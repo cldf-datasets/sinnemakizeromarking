@@ -279,6 +279,8 @@ class Dataset(BaseDataset):
             'Register.csv', delimiter=';', dicts=True)
         value_data = data_folder.read_csv(
             'LingVariables.csv', delimiter=';', dicts=True)
+        custom_parameters = self.etc_dir.read_csv('parameters.csv', dicts=True)
+        custom_parameters = {param['ID']: param for param in custom_parameters}
 
         with open(metadata_folder / 'LingVariables.yaml') as f:
             ling_variables = load_yaml(f, YamlLoader)
@@ -327,12 +329,17 @@ class Dataset(BaseDataset):
 
         parameter_table = [
             {
-                'ID': slug(param_id),
-                'Name': param_id,
+                'ID': slug(param_name),
+                'Name': param_name,
+                'Original_Name': param_name,
                 'Description': param['Description'].strip(),
             }
-            for param_id, param in ling_variables.items()
+            for param_name, param in ling_variables.items()
             if param.get('VariableType') == 'data']
+        for param in parameter_table:
+            if (custom_parameter := custom_parameters.get(param['ID'])):
+                param['Name'] = custom_parameter.get('Name')
+                param['Description'] = custom_parameter.get('Description')
         code_table = [
             {
                 'ID': '{}-{}'.format(slug(param_id), slug(value)),
@@ -354,7 +361,7 @@ class Dataset(BaseDataset):
                 'Value': row[parameter],
             }
             for row in value_data
-            for parameter in map(lambda p: p['Name'], parameter_table)
+            for parameter in map(lambda p: p['Original_Name'], parameter_table)
             if row.get(parameter, '').strip()]
 
         # cldf schema
