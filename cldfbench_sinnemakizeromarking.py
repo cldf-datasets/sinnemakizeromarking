@@ -340,6 +340,10 @@ class Dataset(BaseDataset):
             if (custom_parameter := custom_parameters.get(param['ID'])):
                 param['Name'] = custom_parameter.get('Name')
                 param['Description'] = custom_parameter.get('Description')
+                if (grammacodes := custom_parameter.get('Grammacodes')):
+                    param['Grammacodes'] = [
+                        id_.strip()
+                        for id_ in grammacodes.split(',')]
         code_table = [
             {
                 'ID': '{}-{}'.format(slug(param_id), slug(value)),
@@ -377,7 +381,12 @@ class Dataset(BaseDataset):
                 'name': 'Source',
             },
             'Source_prose')
-        args.writer.cldf.add_component('ParameterTable')
+        args.writer.cldf.add_component(
+            'ParameterTable',
+            {
+                'name': 'Grammacodes',
+                'separator': ';',
+            })
         args.writer.cldf.add_component('CodeTable')
 
         # write cldf
