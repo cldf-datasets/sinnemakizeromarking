@@ -4,7 +4,7 @@ Babel==2.12.1
 bs4==0.0.1
 certifi==2023.7.22
 cldfbench==1.13.0
--e git+https://github.com/cldf-datasets/sinnemakizeromarking.git@c848de8b3a0eff4d73e929182ab2999c0f213a59#egg=cldfbench_sinnemakizeromarking
+-e git+https://github.com/cldf-datasets/sinnemakizeromarking.git@d70e7cfe5acb28e8c6c9f4e743cd65ea6b5fd49b#egg=cldfbench_sinnemakizeromarking
 cldfcatalog==1.5.1
 cldfzenodo==1.1.0
 clldutils==3.19.0
