@@ -281,6 +281,9 @@ class Dataset(BaseDataset):
             'LingVariables.csv', delimiter=';', dicts=True)
         custom_parameters = self.etc_dir.read_csv('parameters.csv', dicts=True)
         custom_parameters = {param['ID']: param for param in custom_parameters}
+        custom_codes = {
+            code['ID']: code
+            for code in self.etc_dir.read_csv('codes.csv', dicts=True)}
 
         with open(metadata_folder / 'LingVariables.yaml') as f:
             ling_variables = load_yaml(f, YamlLoader)
@@ -353,6 +356,10 @@ class Dataset(BaseDataset):
             }
             for param_id, param in ling_variables.items()
             for value, description in param.get('Levels', {}).items()]
+        for code in code_table:
+            if (custom_code := custom_codes.get(code['ID'])):
+                code['Name'] = custom_code.get('Name')
+                code['Description'] = custom_code.get('Description')
 
         value_table = [
             {
