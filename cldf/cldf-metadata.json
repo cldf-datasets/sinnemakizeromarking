@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/sinnemakizeromarking",
             "rdf:type": "prov:Entity",
-            "dc:created": "d70e7cf",
+            "dc:created": "808db67",
             "dc:title": "Repository"
         },
         {
@@ -28,7 +28,7 @@
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.10"
+            "dc:description": "3.8.19"
         },
         {
             "dc:title": "python-packages",
@@ -329,6 +329,10 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#description",
                         "required": false,
                         "name": "Description"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Map_Icon"
                     }
                 ],
                 "foreignKeys": [
