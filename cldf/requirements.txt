@@ -5,7 +5,7 @@ bibtexparser==2.0.0b7
 bs4==0.0.2
 certifi==2024.6.2
 cldfbench==1.14.0
--e git+https://github.com/cldf-datasets/sinnemakizeromarking.git@808db67a59b04b4fee43055c3511fa9f33e1fb24#egg=cldfbench_sinnemakizeromarking
+-e git+https://github.com/cldf-datasets/sinnemakizeromarking.git@04e14d87489686243d382bfdd7f0228d1a528043#egg=cldfbench_sinnemakizeromarking
 cldfcatalog==1.5.1
 cldfzenodo==2.1.1
 clldutils==3.22.2
