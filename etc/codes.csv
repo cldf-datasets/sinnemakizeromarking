@@ -2,8 +2,7 @@ ID,ID,Parameter_ID,Name,Description,Map_Icon
 wordorderbinned5-v1,wordorderbinned5-v1,wordorderbinned5,verb-initial,verb-initial order,cffff00
 wordorderbinned5-v3,wordorderbinned5-v3,wordorderbinned5,verb-final,verb-final order,c0000dd
 wordorderbinned5-svo,wordorderbinned5-svo,wordorderbinned5,SVO,subject-verb-object order,cdd0000
-wordorderbinned5-ovs,wordorderbinned5-ovs,wordorderbinned5,OVS,object-verb-subject order,"c000000
-"
+wordorderbinned5-ovs,wordorderbinned5-ovs,wordorderbinned5,OVS,object-verb-subject order,c000000
 wordorderbinned5-nd,wordorderbinned5-nd,wordorderbinned5,no dominant order,no dominant order,ccccccc
 wordorderso-yes,wordorderso-yes,wordorderso,dominant subject-object order,dominant subject-object order,c00ffff
 wordorderso-no,wordorderso-no,wordorderso,other order,either dominant object-subject order or no dominant order,c000000
