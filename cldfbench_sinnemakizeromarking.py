@@ -358,8 +358,9 @@ class Dataset(BaseDataset):
             for value, description in param.get('Levels', {}).items()]
         for code in code_table:
             if (custom_code := custom_codes.get(code['ID'])):
-                code['Name'] = custom_code.get('Name')
-                code['Description'] = custom_code.get('Description')
+                code['Name'] = custom_code.get('Name', '')
+                code['Description'] = custom_code.get('Description', '')
+                code['Map_Icon'] = custom_code.get('Map_Icon', '')
 
         value_table = [
             {
@@ -394,7 +395,7 @@ class Dataset(BaseDataset):
                 'name': 'Grammacodes',
                 'separator': ';',
             })
-        args.writer.cldf.add_component('CodeTable')
+        args.writer.cldf.add_component('CodeTable', 'Map_Icon')
 
         # write cldf
 
