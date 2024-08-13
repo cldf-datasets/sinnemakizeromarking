@@ -1,11 +1,11 @@
-import collections
 import io
 import pathlib
 import re
 import sys
 import unicodedata
-from urllib import request
 import zipfile
+from itertools import chain
+from urllib import request
 
 from pybtex import database
 from yaml import load as load_yaml
@@ -69,7 +69,7 @@ def iter_bibtex_entries(lines):
 
 
 def parse_bibtex(entry_strings):
-    sources = collections.OrderedDict()
+    sources = {}
     for entry_string in entry_strings:
         bibdata = database.parse_string(entry_string, 'bibtex')
         if not bibdata.entries:
@@ -101,7 +101,7 @@ def clean_bibtex(bibtex_code):
 
 def language_id(glottocode, name):
     if name in LANGUAGES_WITH_DUPLICATE_GLOTTOCODES:
-        return '{}-{}'.format(glottocode, slug(name))
+        return f'{glottocode}-{slug(name)}'
     else:
         return glottocode
 
@@ -222,9 +222,11 @@ def get_bibkey(reference, sources, lang_id):
     if guess in sources:
         return add_pages(guess, reference)
 
-    print(
-        'WARNING: {}: cannot match reference:'.format(lang_id), reference,
-        file=sys.stderr)
+    # TODO: match reference against manually added matches, to find missing
+    # refs.
+    # print(
+    #     'WARNING: {}: cannot match reference:'.format(lang_id), reference,
+    #     file=sys.stderr)
     return None
 
 
@@ -294,6 +296,10 @@ class Dataset(BaseDataset):
                     codes_string = parameter['Levels'].replace(': >', ':')
                     parameter['Levels'] = load_yaml(codes_string, YamlLoader)
 
+        reference_assocs = {
+            gc: [trimmed for r in refs.split(';') if (trimmed := r.strip())]
+            for gc, refs in self.etc_dir.read_csv('language-references.csv')}
+
         with open(bib_folder / 'references.bib', encoding='utf-8') as f:
             bibtex_strings = [
                 clean_bibtex(entry_string)
@@ -306,13 +312,13 @@ class Dataset(BaseDataset):
             row['glottocode']:
             (
                 row['Sources'],
-                [
-                    get_bibkey(
+                sorted(filter(None, set(chain(
+                    (get_bibkey(
                         reference,
                         sources,
                         language_id(row['glottocode'], row['language']))
-                    for reference in iter_references(row['Sources'])
-                ],
+                     for reference in iter_references(row['Sources'])),
+                    reference_assocs.get(row['glottocode']) or [])))),
             )
             for row in value_data}
 
