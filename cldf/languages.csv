@@ -225,7 +225,7 @@ futu1245,Futuna-Aniwa,Papunesia,-19.53333,170.21667,futu1245,fut,fut,Oceanic,Aus
 fyam1238,Fyem,Africa,9.58333,9.33333,fyam1238,pym,fye,Platoid,Niger-Congo,African_Savannah,Africa,ow,afr,no,"Nettle1998[24, 25, 29]","Nettle 1998: 24, 25, 29"
 gaga1251,Gaagudju,Australia,-12.58333333,132.8333333,gaga1251,gbu,gaa,Gaagudju,Australian,N_Australia,Australia,pac,pac,yes,"Harvey2002[231-233, 262]","Harvey 2002: 231-233, 262"
 scot1245,Gaelic (Scots),Eurasia,57.0,-4.0,scot1245,gla,gae,Celtic,Indo-European,Europe,W_&_SW_Eurasia,ow,eur,no,"Lamb2001[29, 30, 52, 53, 64, 69];Ramchand1997[29-]","Ramchand 1997: 29-, Lamb 2001: 29, 30, 52, 53, 64, 69"
-alek1238,Gahuku,Papunesia,-6.0,145.41667,alek1238,gah,gah,Eastern Highlands,Trans-New Guinea,Interior_New_Guinea,NG_&_Oceania,pac,pac,yes,Deibler1976;Scott1986[167];Scott1986[167|,"Deibler 1976, Scott 1986: 167"
+alek1238,Gahuku,Papunesia,-6.0,145.41667,alek1238,gah,gah,Eastern Highlands,Trans-New Guinea,Interior_New_Guinea,NG_&_Oceania,pac,pac,yes,Deibler1976;Scott1986[167],"Deibler 1976, Scott 1986: 167"
 damu1236-galo,Galo,Eurasia,28.16667,94.66667,damu1236,adi,gal,Tani,Sino-Tibetan,Indic,S_&_SE_Asia,ow,eur,no,Post2008[724],Post 2008: 724
 gamo1244,Gamo,Africa,6.66667,37.25,gamo1244,gmo,gam,North Omotic,Afro-Asiatic,Greater_Abyssinia,Africa,ow,afr,no,"Tucker1966[559, 560]","Tucker and Bryan 1966: 559, 560"
 garo1247,Garo,Eurasia,25.66667,90.5,garo1247,grt,gar,Bodo-Garo,Sino-Tibetan,Indic,S_&_SE_Asia,ow,eur,no,Burling2003[396];Comrie2013,"Burling 2003: 396, Comrie 2005"
@@ -333,7 +333,7 @@ kalm1243,Kalmyk,Eurasia,44.0,83.0,kalm1243,xal,kmk,Mongolic,Altaic,Inner_Asia,NC
 kama1351,Kamass,Eurasia,52.0,92.0,kama1351,xas,kms,Samoyedic,Uralic,Inner_Asia,NC_Asia,ow,eur,no,Donners1944[9];Havas2008;Simoncsics1998,"Havas 2008, Donners 1944: 9, Simoncsics 1998"
 kamb1299,Kambera,Papunesia,-9.83333,120.16667,kamb1299,xbr,kam,Central Malayo-Polynesian,Austronesian,Oceania,NG_&_Oceania,pac,pac,yes,Klamer1998[60-63],Klamer 1998: 60-63
 kamo1255,Kamoro,Papunesia,-4.33333,136.0,kamo1255,kgq,kmr,Asmat-Kamoro,Trans-New Guinea,S_New_Guinea,NG_&_Oceania,pac,pac,yes,Voorhoeve1975[371],Voorhoeve 1975: 371
-kamu1258,Kamu,Australia,-13.58333,130.83333,kamu1258,xmu,kmw,Eastern Daly,Australian,N_Australia,Australia,pac,pac,yes,Dixon2002;Harvey 2003a;Harvey 2003b,"Dixon 2002, Harvey 2003ab"
+kamu1258,Kamu,Australia,-13.58333,130.83333,kamu1258,xmu,kmw,Eastern Daly,Australian,N_Australia,Australia,pac,pac,yes,Dixon2002;Harvey2003a;Harvey2003b,"Dixon 2002, Harvey 2003ab"
 kamu1260,Kamula,Papunesia,-7.29,142.64,kamu1260,xla,,Awin-Pare,Awin-Pare,S_New_Guinea,NG_&_Oceania,pac,pac,yes,Routamaa1994[75],Routamaa 1994: 75
 khan1278,Kana,Africa,4.75,7.41667,khan1278,ogo,kan,Cross River,Niger-Congo,African_Savannah,Africa,ow,afr,no,Ikoro1996,Ikoro 1996
 west2635,Kanjobal (Western),North America,15.83333,-91.83333,west2635,knj,kwe,Mayan,Mayan,Mesoamerica,C_America,nw,nw,yes,"Zavala1992[93, 253]","Zavala 1992: 93, 253"
