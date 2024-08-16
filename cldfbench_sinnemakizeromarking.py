@@ -121,7 +121,7 @@ def iter_references(references_string):
     while rest:
         reference = {}
         # skip 'Personal knowledge'
-        personal_knowledge_match = re.match('\s*Personal knowledge,?\s*', rest)
+        personal_knowledge_match = re.match(r'\s*Personal knowledge,?\s*', rest)
         if personal_knowledge_match:
             rest = rest[len(personal_knowledge_match.group()):]
             continue
@@ -208,8 +208,6 @@ def add_pages(bibkey, reference):
 
 
 def get_bibkey(reference, sources, lang_id):
-    bibkey = None
-
     guess = '{}{}'.format(
         prepare_author(first_author_no_van(reference)),
         reference['year'])
