@@ -1,0 +1,41 @@
+{
+    "creators": [
+        {
+            "name": "Kaius Sinnam\u00e4ki"
+        },
+        {
+            "name": "Noora Ahola"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johannes Englisch",
+            "type": "Other"
+        },
+        {
+            "name": "Martin Haspelmath",
+            "type": "Other"
+        }
+    ],
+    "title": "Zero marking and the order of core arguments",
+    "access_right": "open",
+    "keywords": [
+        "cldf:StructureDataset",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "license": {
+        "id": "CC-BY-4.0"
+    },
+    "communities": [
+        {
+            "identifier": "cldf-datasets"
+        },
+        {
+            "identifier": "clld"
+        },
+        {
+            "identifier": "crossgram"
+        }
+    ]
+}
