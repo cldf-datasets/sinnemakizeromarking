@@ -32,9 +32,6 @@
             "identifier": "cldf-datasets"
         },
         {
-            "identifier": "clld"
-        },
-        {
             "identifier": "crossgram"
         }
     ]
