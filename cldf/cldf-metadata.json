@@ -6,7 +6,7 @@
         }
     ],
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#StructureDataset",
-    "dc:identifier": "https://github.com/cldf-datasets/sinnemakizeromarking",
+    "dc:identifier": "https://crossgram.clld.org/contributions/sinnemakizeromarking",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:title": "Zero marking and the order of core arguments",
@@ -15,7 +15,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/sinnemakizeromarking",
             "rdf:type": "prov:Entity",
-            "dc:created": "44608a7",
+            "dc:created": "25e6eb3",
             "dc:title": "Repository"
         },
         {
