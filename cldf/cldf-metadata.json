@@ -15,13 +15,13 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/sinnemakizeromarking",
             "rdf:type": "prov:Entity",
-            "dc:created": "25e6eb3",
+            "dc:created": "v1.0-1-g2dd1af1",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.0",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
