@@ -7,7 +7,7 @@ import zipfile
 from itertools import chain
 from urllib import request
 
-from pybtex import database
+from simplepybtex import database
 from yaml import load as load_yaml
 try:
     from yaml import CLoader as YamlLoader
