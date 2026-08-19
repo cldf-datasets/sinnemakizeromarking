@@ -15,20 +15,20 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/sinnemakizeromarking",
             "rdf:type": "prov:Entity",
-            "dc:created": "v1.0-1-g2dd1af1",
+            "dc:created": "v1.0-4-ge6bbc15",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.19"
+            "dc:description": "3.10.20"
         },
         {
             "dc:title": "python-packages",
